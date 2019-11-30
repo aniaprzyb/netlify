@@ -1,6 +1,6 @@
-# faq.agilewarsaw.com config
+# persony.agilewarsaw.com config
 
-Simple redirect to FAQ section of our info repo
+Simple redirect to `persony` section of our info repo
 
 Edit public/_redirects to change
 
