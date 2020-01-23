@@ -1,3 +1,3 @@
-[context.devel-www] # 'master' is a branch name
+[context.devel-www] # 'devel-www' is a branch name -- remember to change it while merging :)
   command = "hugo"
   publish = "docs"
