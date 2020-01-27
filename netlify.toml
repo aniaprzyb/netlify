@@ -1,4 +1,4 @@
 [context.persony] # 'persony' is a branch name
   publish = "public"
-  command = "echo No need to run anything :)" 
+  command = "echo 'No need to run anything :)'" 
 
