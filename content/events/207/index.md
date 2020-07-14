@@ -1,10 +1,10 @@
 ---
 number: "207"
 date: "2020-07-13T19:00:00+01:00"
-title: "Przecież oni wiedzą, że ja myślę, że oni myślą, że ja wiem! - O komunikacji budującej relacje"
-speakers: "Adrian Janik, Mateusz Hauk"
+title: "Zrozumieć i rozwijać role w zespole Scrumowym w kilku prostych krokach"
+speakers: "Tomek Pawlak, Kuba Milewski"
 lang: "pl"
-sponsors: ["QAgile", "Reef Technologies"]
+sponsors: ["Code Sprinters", "Slido"]
 videoURL: ""
 draft: false
 ---
@@ -15,25 +15,20 @@ Podczas wystąpienia dowiesz się, jak zadbać o relacje w miejscu pracy z persp
 
 Jeśli jesteś zainteresowany/a rozwijaniem siebie i innych, zapraszam do udziału w spotkaniu.
 
-## Prelegenci
+## Prowadzący
 
-<a href="https://www.linkedin.com/in/adrian-janik-b1664395/" target="_blank">Adrian Janik</a>
+#### Kuba Milewski
 
-Trener biznesu, psycholog, konsultant i terapeuta organizacji. Pomaga firmom w planowaniu i skutecznym wdrażaniu zmian. Dzieli się praktyczną wiedzą i pomaga rozwijać umiejętności związane z komunikacją, budowaniem relacji oraz zespołowością. Wspiera samoorganizujące się zespoły pracujące w
-oparciu o metodologie zwinne (Agile, SCRUM).  
+Scrum Master z 7-letnim doświadczeniem w tej roli. Jako Scrum Master ma doświadczenie w pracy z różnych konfiguracjach zespołów i organizacji: pojedyncze zespoły produktowe oraz zespoły pracujące przy dużych inicjatywach z wykorzystaniem skalowania Scruma, zespoły skolokowane i rozproszone, organizacje różnych rozmiarów od startupów do dużych międzynarodowych firm (m.in. Grupa Pracuj, CGI, Ivanti, czy obecnie Nykredit).
 
-Absolwent psychologii. Trener od 2011 roku. Regularnie uczestniczy w spotkaniach społeczności
-SCRUM/AGILE (ACCPL) Prywatnie zapalony podróżnik i biegacz. W wolnych chwilach odpoczywa z książką
-w ręku. Team Marvel, ale szanuje DC.  
+W codziennej pracy wykorzystuje wcześniejsze doświadczenia jako programista, w szczególności ciekawość “jak działają rzeczy”. Dzięki czemu świadomie i skutecznie wspiera zespoły i organizacje w odkrywaniu lepszych sposobów współpracy przy tworzeniu oprogramowania.
 
-Prowadził dedykowane warsztaty i cykle szkoleniowe dla takich klientów jak. Grupa Allegro, Grupa OLX,
-Otomoto.pl, Verbicom, Eobuwie.pl, HolidayCheck, PZU Everest, Orange, Idemia Poland R&D,
+Prywatnie, wspólnie z żoną, uczą się jak zarządzać czasem i przestrzenią od dwóch niezwykłych młodych dżentelmenów.
 
-<a href="https://www.linkedin.com/in/mateusz-hauk-6651638/" target="_blank">Mateusz Hauk</a> 
+#### Tomek Pawlak
 
-Trener, coach, psycholog, konsultant. Specjalizuje się w rozwoju umiejętności szefowskich i menedżerskich, budowaniu i usprawnianiu pracy zespołów, facylitacji i moderacji, działaniach ukierunkowanych na poprawę relacji w miejscu pracy (zarówno w otoczeniu wewnętrznym, jak i zewnętrznym organizacji) przy równoczesnym zwiększaniu efektywności. Wspiera organizacje w planowaniu i skutecznym wdrażaniu zmian. Wspiera samoorganizujące się zespoły pracujące w oparciu o metodologie zwinne (Agile, SCRUM). 
+Tomek od kilku lat jako trener Scrum dzieli się swoją wiedzą pomagając firmom IT podnosić jakość oprogramowania oraz budować przyjazne środowisko pracy. Takie w którym zaangażowanie, produktywność oraz rozwój stają się osiągalne!
 
-Doktor nauk społecznych w obszarze psychologii. Autor wielu publikacji z zakresu psychologii pracy i organizacji. Trener od 2005 roku. Regularnie uczestniczy w spotkaniach społeczności SCRUM/AGILE (ACCPL) Prywatnie partner, ojciec, zapalony adept jazdy na rolkach i łyżwach😊.  
+Wspierał zwinne transformacje m.in. w takich firmach jak StepStone, RST Software Masters, Logintrans oraz Polska Wytwórnia Papierów Wartościowych. Tomek był współorganizatorem premierowej edycji konferencji ScrumDays w Polsce oraz jej dwóch kolejnych edycji. Jest założycielem „inicjatywy dla Scruma”. Z jego poglądami na temat Scrum, zwinności oraz radzenia sobie ze złożonością można przeczytać na blogu <a href="http://tomekpawlak.pl/" target="_blank">Buena Vista People Scrum</a>.
 
-Prowadził dedykowane warsztaty i cykle szkoleniowe dla takich klientów jak: Alvo, Astanet, Colours factory, E-obuwie, Fresenius, Fresh Logistics, Geberit, Ikea, Jost, KPRM (Kancelaria Prezesa Rady Ministrów), Mondelez, OLX, Poczta Polska, Porsche, PZU Everest, Raben Polska, Rockwool, Schattdecor, Schenker, Schulstad, Sonoco, Swarovsky, Vatennfall, Volkswagen Group Polska.
-
+Tomek jest również autorem, zdobywającego coraz większą popularność, narzędzia dla praktyków Scrum pod nazwą „Utture kompas Scrum Mastera”. Więcej informacji o projekcie oraz narzędziu można znaleźć na stronie: <a href="https://narzedziadlascrummastera.pl/" target="_blank">https://narzedziadlascrummastera.pl/</a>.
