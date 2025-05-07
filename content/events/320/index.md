@@ -2,7 +2,7 @@
 number: "320" 
 date: "2025-04-06T13:00:00+01:00"
 title: "ABE Light 2025"
-speakers: "Aga Szóstek, Kate Hobler, Agnieszka Sint, Maciej Czyżowicz"
+speakers: ""
 lang: "pl"
 sponsors: ["BEC Technologies Poland", "Akademia Leona Koźmińskiego w Warszawie"]
 videoURL: "https://youtube.com/playlist?list=PLwoIK953bBnPW5jWoS-jq_lYwCYsa6qgT&si=-YtcKcKcHpbxWshC" 
