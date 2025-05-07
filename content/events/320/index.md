@@ -1,6 +1,6 @@
 ---
 number: "320" 
-date: "{{2025-04-06T13:00+}}"
+date: "2025-04-06T13:00:00+01:00"
 title: "ABE Light 2025"
 speakers: "Aga Szóstek, Kate Hobler, Agnieszka Sint, Maciej Czyżowicz"
 lang: "pl"
