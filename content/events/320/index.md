@@ -193,3 +193,5 @@ W trakcie warsztatu dowiesz się, jak stoickie zasady, takie jak akceptacja rzec
 To będzie czas na autentyczną refleksję, praktyczne ćwiczenia i budowanie stoickiego "narzędziownika", z którego skorzystasz od razu po warsztacie!
 
 Serdecznie zapraszam!
+
+
