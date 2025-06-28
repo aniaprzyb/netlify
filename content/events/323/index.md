@@ -17,7 +17,7 @@ Karolina przedstawi praktyczne narzędzia, które pozwolą Ci stać się bardzie
 Jest to warsztat dla:
 Do liderów, managerów, wszystkich zwinnych głów, neurofreaków oraz każdego kto chce poszerzyć zasób narzędzi do wspierania ludzi w pracy - jeszcze lepiej.
 ***
-###Poznaj prowadzącą:
+Poznaj prowadzącą:
 
 Karolina Boguszewska, PhD – mentorka, trenerka i Scrum Masterka, która łączy metodę naukową z praktyką biznesową, jednocześnie wspierając liderów i zespoły w świadomym rozwoju.
 Z wykształcenia doktor nauk medycznych w zakresie biologii molekularnej, biotechnologii i bromatologii, Karolina przez ponad dekadę zdobywała doświadczenie w różnych branżach – od badań naukowych i NGO, przez medtech i edukację, po IT i HR.
