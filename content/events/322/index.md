@@ -1,6 +1,6 @@
 ---
-number: "319"
-date: "2025-03-10T18:00:00+01:00"
+number: "322"
+date: "2025-05-12T18:00:00+01:00"
 title: "15. urodziny AgileWarsaw"
 speakers: ""
 lang: "pl"
