@@ -6,7 +6,7 @@ speakers: "Karolina Boguszewska"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "2025-05-19_Neuroleadership Agile Warsaw.pdf"
 draft: false
 ---
 
