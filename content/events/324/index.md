@@ -6,7 +6,7 @@ speakers: "Tomek Dąbrowski"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
-slidesURL: "OKR Starter Package.zip"
+slidesURL: "Tomek Dabrowski - Agile Warsaw - Fuckup OKRs.pdf"
 draft: false
 ---
 
@@ -28,6 +28,9 @@ Jestem pasjonatem zwinnego podejścia do dostarczania produktów oraz wyrażania
 Wprowadzanie myślenia strategicznego w organizacji jest dla mnie pierwszym krokiem do stworzenie zdrowej kultury pracy oraz skupieniu wysiłku pracowników na najważniejszych priorytetach. Specjalizuję się w budowaniu efektywnego otoczenia i prowadzeniu firmy przez zmiany. Mocno wierzę w podejście zorientowane na klienta i samoorganizujące się zespoły jako podstawę kreatywności i innowacji.
 
 Mam ponad 10-letnie doświadczenie pracy z OKRami. Współpracuję zarówno ze startupami, jak i dużymi korporacjami w tym obszarze. Wśród moich klientów są między innymi takie firmy jak ClickMeeting, Roche, fireTMS, Vivid Games, mBank, Benefit Systems, Uniqa. Aktywnie dzielę się wiedzą z zakresu OKRów podczas spotkań lokalnych społeczności oraz na platformie Linkedin.
+
+
+Materiały ze spotkania: <a href="OKR Starter Package.zip" target="_blank">OKR Starter Package</a> 
 
 
 
