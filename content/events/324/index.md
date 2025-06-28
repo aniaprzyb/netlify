@@ -6,7 +6,7 @@ speakers: "Tomek Dąbrowski"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: ""
-slidesURL: ""
+slidesURL: "OKR Starter Package.zip"
 draft: false
 ---
 
