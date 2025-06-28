@@ -21,9 +21,9 @@ Dla wszystkich zainteresowanych, którzy chcą poznać tajniki pracy z inspiruj�
 
 ***
 
-Prowadzący:
+Prowadzący: <a href="https://www.linkedin.com/in/tomekdab/" target="_blank">Tomek Dąbrowski</a> 
 
-<a href="https://www.linkedin.com/in/tomekdab/" target="_blank">Tomek Dąbrowski</a> Jestem pasjonatem zwinnego podejścia do dostarczania produktów oraz wyrażania strategii przy pomocy nowoczesnego podejścia: zarządzania celami OKR (Objective and Key Results).
+Jestem pasjonatem zwinnego podejścia do dostarczania produktów oraz wyrażania strategii przy pomocy nowoczesnego podejścia: zarządzania celami OKR (Objective and Key Results).
 
 Wprowadzanie myślenia strategicznego w organizacji jest dla mnie pierwszym krokiem do stworzenie zdrowej kultury pracy oraz skupieniu wysiłku pracowników na najważniejszych priorytetach. Specjalizuję się w budowaniu efektywnego otoczenia i prowadzeniu firmy przez zmiany. Mocno wierzę w podejście zorientowane na klienta i samoorganizujące się zespoły jako podstawę kreatywności i innowacji.
 
