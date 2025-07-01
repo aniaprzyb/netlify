@@ -18,7 +18,7 @@ Nie jest wymagane wcześniejsze doświadczenie – wystarczy ciekawość i chę�
 
 ***
 Jest to warsztat dla:
-wszystkich (Liderów, Developerów, Scrum Masterów)
+wszystkich (Liderów, Developerów, Scrum Masterów)...
 ***
 
 Prowadzący:
