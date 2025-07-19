@@ -25,8 +25,12 @@ Podczas tej prelekcji pokażę:
 W drugiej części spotkania uczestnicy będą mogli doświadczyć, jak model Collaboration Debt służy jako wsparcie w identyfikowaniu faktycznych źródeł problemów we współpracy.  
 Przeanalizujemy to, jak konkretne problemy z naszego otoczenia wpływają na siebie nawzajem oraz jakie potrzeby mogą się za nimi kryć.
 
-## Poznaj prowadzącego:
+***
+###Jest to warsztat dla:  
+Liderów, project managerów, scrum masterów i agile coachów - wszystkich, którzy chcą budować zdrową współpracę w zespołach i podnosić ich skuteczność.
+***
 
+## Poznaj prowadzącego:
 <a href="https://a83.pl/" target="_blank">Marcin Aks Grochowina</a>:
 konsultant, facylitator, twórca modelu Collaboration Debt
 
