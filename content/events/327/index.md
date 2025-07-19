@@ -32,7 +32,7 @@ Liderów, project managerów, scrum masterów i agile coachów - wszystkich, kt�
 
 ## Poznaj prowadzącego:
 <a href="https://a83.pl/" target="_blank">Marcin Aks Grochowina</a>:
-konsultant, facylitator, twórca modelu Collaboration Debt
+konsultant, facylitator, twórca modelu Collaboration Debt.
 
 Pomagam zespołom i liderom odkrywać to, co nadaje sens ich działaniom, tworząc przestrzeń do autentycznej współpracy i zaufania. Wspólnie zmieniamy sposób, w jaki postrzegasz siebie, swój zespół i relacje z innymi, aby praca była nie tylko efektywna, ale też satysfakcjonująca.  
 Wierzę w kulturę eksperymentu. Wyznaję zasadę "Collaborate & Listen".  
