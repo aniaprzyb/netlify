@@ -26,7 +26,7 @@ W drugiej części spotkania uczestnicy będą mogli doświadczyć, jak model Co
 Przeanalizujemy to, jak konkretne problemy z naszego otoczenia wpływają na siebie nawzajem oraz jakie potrzeby mogą się za nimi kryć.
 
 ***
-###Jest to warsztat dla:  
+### Jest to warsztat dla:  
 Liderów, project managerów, scrum masterów i agile coachów - wszystkich, którzy chcą budować zdrową współpracę w zespołach i podnosić ich skuteczność.
 ***
 
