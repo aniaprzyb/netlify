@@ -20,5 +20,5 @@ Wszystkich zainteresowanych budowaniem produktów – Product Ownerów, PM-ów, 
 ## Poznaj prowadzącego:
 <a href="https://www.linkedin.com/in/pwlodarczyk/" target="_blank">Piotr Włodarczyk</a>:
 Product & AI Coach, twórca narzędzi i szkoleń dla Product Managerów (piotrwlodarczyk.pro). Wspieram firmy takie jak T-Mobile, Santander czy ERGO w skutecznym wytwarzaniu produktów. Ostatnio eksperymentuję z AI w praktyce – budując startupy, prototypy i rozwiązania dla biznesu.
-Piotra znajdziecie na: <a href="https://www.linkedin.com/in/pwlodarczyk/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/piotrwlodarczyk_productleaders/" target="_blank">Instagram</a>,<a href="https://www.youtube.com/@piotrwlodarczykpro" target="_blank">YouTube</a> i <a href="https://piotrwlodarczyk.pro/" target="_blank">www</a>.
+Piotra znajdziecie na: <a href="https://www.linkedin.com/in/pwlodarczyk/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/piotrwlodarczyk_productleaders/" target="_blank">Instagram</a>, <a href="https://www.youtube.com/@piotrwlodarczykpro" target="_blank">YouTube</a> i <a href="https://piotrwlodarczyk.pro/" target="_blank">www</a>.
 
