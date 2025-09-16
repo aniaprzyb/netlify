@@ -10,7 +10,7 @@ slidesURL: ""
 draft: false
 ---
 
-Opowiem o tym, jak w dwa miesiące zbudowałem serwis [<a href= "http://bajkopisanie.pl/)" target="_blank">Bajkopisanie.pl</a>](https://bajkopisanie.pl/?utm_source=chatgpt.com), korzystając z AI i narzędzia <a href="http://lovable.app/" target="_blank">lovable.app</a>. Pokażę pułapki, w które wpadłem mimo doświadczenia w product management – perfekcjonizm, overengineering i błędy poznawcze. Podzielę się wnioskami o pracy na celu, testowaniu i walidacji z innymi. Powiem też, jak realnie pomaga (i przeszkadza) AI, oraz dam praktyczne tipy do wykorzystania w organizacjach przy szybkim prototypowaniu. W drugiej części pokażę na żywo, jak można zbudować prosty produkt z pomocą AI, a całość zakończymy rozmową i pytaniami.
+Opowiem o tym, jak w dwa miesiące zbudowałem serwis [<a href= "http://bajkopisanie.pl" target="_blank">Bajkopisanie.pl</a>](https://bajkopisanie.pl/?utm_source=chatgpt.com), korzystając z AI i narzędzia <a href="http://lovable.app/" target="_blank">lovable.app</a>. Pokażę pułapki, w które wpadłem mimo doświadczenia w product management – perfekcjonizm, overengineering i błędy poznawcze. Podzielę się wnioskami o pracy na celu, testowaniu i walidacji z innymi. Powiem też, jak realnie pomaga (i przeszkadza) AI, oraz dam praktyczne tipy do wykorzystania w organizacjach przy szybkim prototypowaniu. W drugiej części pokażę na żywo, jak można zbudować prosty produkt z pomocą AI, a całość zakończymy rozmową i pytaniami.
 
 ***
 ### Jest to warsztat dla:  
