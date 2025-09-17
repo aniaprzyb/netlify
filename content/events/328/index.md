@@ -5,7 +5,7 @@ title:  "Jak zrobić startup w 1 miesiąc, wydając 3 tys. zł – czego się na
 speakers: "Piotr Włodarczyk"
 lang: "pl"
 sponsors: ["DXC"]
-videoURL: ""
+videoURL: "https://youtu.be/Q247fJRFwbc"
 slidesURL: ""
 draft: false
 ---
