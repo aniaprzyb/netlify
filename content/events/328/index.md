@@ -6,7 +6,7 @@ speakers: "Piotr Włodarczyk"
 lang: "pl"
 sponsors: ["DXC"]
 videoURL: "https://youtu.be/Q247fJRFwbc"
-slidesURL: ""
+slidesURL: "bajkopisanie_ai_startup.pdf"
 draft: false
 ---
 
