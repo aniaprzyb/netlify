@@ -22,7 +22,7 @@ Nie obiecuję gotowych odpowiedzi, ale możesz wyjść z tej prelekcji z kilkoma
 ### Jest to spotkanie dla:
 
 Dla menedżerów, liderów i osób mających wpływ na sposób działania organizacji, którzy mają już dość „zmian” kończących się na kilku warsztatach i nowych procesach.
-Jeśli chcesz zrozumieć, co naprawdę odróżnia skuteczne transformacje od pozornych ruchów, i jak projektować organizację zdolną do realnej adaptacji — ta sesja jest dla Ciebie.
+Jeśli chcesz zrozumieć, co naprawdę odróżnia skuteczne transformacje od pozornych ruchów i jak projektować organizację zdolną do realnej adaptacji — ta sesja jest dla Ciebie.
 
 ***
 
