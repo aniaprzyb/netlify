@@ -5,7 +5,7 @@ title:  "Projektowanie adaptacyjnych organizacji"
 speakers: "Tomasz Wykowski"
 lang: "pl"
 sponsors: ["PKO", "ProCognita"]
-videoURL: ""
+videoURL: "https://youtu.be/VfxCk1RP84c"
 slidesURL: ""
 draft: false
 ---
