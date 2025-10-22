@@ -29,7 +29,7 @@ Dla wszystkich zaangażowanych w tworzenie produktów i wartości Agile.
 
 ## Poznaj prowadzącego:
 
-Vasili Shymanski https://www.linkedin.com/in/shymanski/– wysoko zaangażowany, zorientowany na wartości Agile Coach.  
+<a href="https://www.linkedin.com/in/shymanski/" target="_blank">Vasili Shymanski</a>– wysoko zaangażowany, zorientowany na wartości Agile Coach.  
 Jego pasją jest obserwowanie, jak zespoły stają się wysokowydajne i dostarczają produkty o dużej wartości, kierując się zasadami i wartościami Agile.  
 
 Pracował z różnymi zespołami zaangażowanymi w tworzenie produktów – od rozwiązań z zakresu sztucznej inteligencji po projekty łączące sprzęt i oprogramowanie.  
@@ -38,10 +38,6 @@ Współpracował z kadrą zarządzającą na wszystkich poziomach organizacji, p
 Kładąc nacisk na mindset i wartości, Vasili wspierał zespoły Scrumowe w osiąganiu wysokiej efektywności i dostarczaniu produktów o najwyższej jakości.  
 Obecnie pełni rolę **Release Train Engineera w EV ART**, który rozwija systemy ładowarek do samochodów elektrycznych (EV).
 
-***
-
-
-Zapraszamy do zapoznania się z naszym [FAQ](/faq)
 
 ***
 
