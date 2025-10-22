@@ -13,11 +13,11 @@ draft: false
 ## Spotkanie 
 
 W dynamicznie rozwijających się organizacjach zwinnych tradycyjne podejście do wdrażania zmian często prowadzi do oporu, przeciążenia i braku trwałych rezultatów.  
-Skuteczniejszym sposobem okazuje się tworzenie **kultury eksperymentowania**, w której zmiana jest efektem małych, kontrolowanych prób — dzięki nim zespoły mogą bezpiecznie uczyć się, testować hipotezy i wspólnie odkrywać, co naprawdę działa.
+Skuteczniejszym sposobem okazuje się tworzenie kultury eksperymentowania, w której zmiana jest efektem małych, kontrolowanych prób — dzięki nim zespoły mogą bezpiecznie uczyć się, testować hipotezy i wspólnie odkrywać, co naprawdę działa.
 
 Podczas prezentacji pokażemy, jak zastąpić wdrażanie zmian podejściem opartym na eksperymentach i jak budować środowisko, w którym ludzie czują sprawczość, odpowiedzialność i motywację do ciągłego doskonalenia.  
 
-Wystąpienie będzie oparte na rzeczywistych doświadczeniach z **EV ART**, który obecnie obejmuje 14 zespołów i przygotowuje się do dalszego skalowania. Na ich przykładzie pokażemy, jak w praktyce budować kulturę kontrolowanej zmiany na dużą skalę – krok po kroku, z poszanowaniem wartości Agile i w oparciu o faktyczne dane oraz wnioski z codziennej pracy.
+Wystąpienie będzie oparte na rzeczywistych doświadczeniach z EV ART, który obecnie obejmuje 14 zespołów i przygotowuje się do dalszego skalowania. Na ich przykładzie pokażemy, jak w praktyce budować kulturę kontrolowanej zmiany na dużą skalę – krok po kroku, z poszanowaniem wartości Agile i w oparciu o faktyczne dane oraz wnioski z codziennej pracy.
 
 ***
 
@@ -36,9 +36,6 @@ Pracował z różnymi zespołami zaangażowanymi w tworzenie produktów – od r
 Współpracował z kadrą zarządzającą na wszystkich poziomach organizacji, pomagając w planowaniu i realizacji transformacji Agile.  
 
 Kładąc nacisk na mindset i wartości, Vasili wspierał zespoły Scrumowe w osiąganiu wysokiej efektywności i dostarczaniu produktów o najwyższej jakości.  
-Obecnie pełni rolę **Release Train Engineera w EV ART**, który rozwija systemy ładowarek do samochodów elektrycznych (EV).
+Obecnie pełni rolę Release Train Engineera w EV ART, który rozwija systemy ładowarek do samochodów elektrycznych (EV).
 
 
-***
-
-Serdeczne podziękowania dla **Circle K Business Centre** za goszczenie wydarzenia, poczęstunek oraz sponsorowanie nagrania!
