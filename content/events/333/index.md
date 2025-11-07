@@ -1,11 +1,11 @@
 ---
 number: "333"
-date: "2025-11-17T18:00:00+01:00"
+date: "2025-11-03T18:00:00+01:00"
 title: "Eksperymentuj, nie wdrażaj: budowanie kultury kontrolowanej zmiany na dużą skalę"
 speakers: "Vasili Shymanski"
 lang: "pl"
 sponsors: ["Circle K Business Centre"]
-videoURL: ""
+videoURL: "https://youtu.be/i76Rwu2s178"
 slidesURL: ""
 draft: false
 ---
