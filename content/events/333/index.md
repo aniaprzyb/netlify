@@ -5,7 +5,7 @@ title: "Eksperymentuj, nie wdrażaj: budowanie kultury kontrolowanej zmiany na d
 speakers: "Vasili Shymanski"
 lang: "pl"
 sponsors: ["Circle K Business Centre"]
-videoURL: ""
+videoURL: "https://youtu.be/i76Rwu2s178"
 slidesURL: ""
 draft: false
 ---
