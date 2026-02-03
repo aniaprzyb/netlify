@@ -36,11 +36,12 @@ Bez upiększania. Z błędami, z których się uczyliśmy. Z rozwiązaniami, kt�
 
 - Punkt wyjścia – wiele zespołów Scrumowych skupionych na outputcie, lokalnie optymalizujących, bez wpływu na globalny impact (spoiler: jak wszędzie)
 - Dlaczego „product per zespół" to pułapka – jak lokalna optymalizacja sabotuje biznes
- -Jak przekonać ludzi do zmiany – jeden wspólny produkt to nie chaos, ale klarowność i realny impact biznesowy
+- Jak przekonać ludzi do zmiany – jeden wspólny produkt to nie chaos, ale klarowność i realny impact biznesowy
 - Co się zmienia, gdy przestajesz pytać „czy zespół jest zajęty", a zaczynasz pytać „czy dostarczamy maksymalną globalną wartość"
 - Konkretne lekcje – błędy, których nie musisz popełniać, i praktyki gotowe do wdrożenia już jutro
 - To historia prawdziwej transformacji wielozespołowej organizacji produktowej. Bez upiększania. Z błędami, z których się uczyliśmy. Z rozwiązaniami, które działają.
 - Jeśli zastanawiasz się, jak przejść od wielu zespołów pracujących „efektywnie" do organizacji dostarczającej wyniki – ta prelekcja jest dla Ciebie.
+
 
 ***
 ## Poznaj prowadzącego
