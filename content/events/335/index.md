@@ -5,7 +5,7 @@ title: "Od 12 backlogów do jednego produktu – jak skróciliśmy TTM 5-krotnie
 speakers: "Krzysztof Niewiński"
 lang: "pl"
 sponsors: ["DXC", "QAgile"]
-videoURL: ""
+videoURL: "https://youtu.be/TvynRyiZy2M?si=076lMXDupMAUEFrk"
 slidesURL: ""
 draft: false
 ---
@@ -66,4 +66,4 @@ Szkolę liderów, doradzam zespołom i mentoruję produktowców w budowaniu prod
 Nie uczę pustej teorii – dzielę się praktyką sprawdzoną w realnych zespołach i firmach, od startupów po korporacje.
 
 Więcej o mnie znajdziesz na:  
-https://productorg.com/o-mnie
+https://productorg.com/o-mnie, https://www.linkedin.com/in/krzysztofniewinski
