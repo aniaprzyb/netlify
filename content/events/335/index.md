@@ -1,6 +1,6 @@
 ---
 number: "335"
-date: "2025-04-XXT18:00:00+02:00"
+date: "2025-12-01T18:00:00+02:00"
 title: "Od 12 backlogów do jednego produktu – jak skróciliśmy TTM 5-krotnie"
 speakers: "Krzysztof Niewiński"
 lang: "pl"
