@@ -1,7 +1,7 @@
 ---
 number: "335"
 date: "2025-12-01T18:00:00+02:00"
-title: "Od 12 backlogów do jednego produktu – jak skróciliśmy TTM 5-krotnie"
+title: "Transformacja G2A na wielozespołowy Model Produktowy"
 speakers: "Krzysztof Niewiński"
 lang: "pl"
 sponsors: ["DXC", "QAgile"]
@@ -32,28 +32,17 @@ Od tego momentu eksperymentujemy z praktykami i optymalizujemy dostarczanie maks
 To historia prawdziwej transformacji wielozespołowej organizacji produktowej.  
 Bez upiększania. Z błędami, z których się uczyliśmy. Z rozwiązaniami, które działają.
 
-***
-
 ### W tej prezentacji zobaczysz:
 
 - Punkt wyjścia – wiele zespołów Scrumowych skupionych na outputcie, lokalnie optymalizujących, bez wpływu na globalny impact (spoiler: jak wszędzie)
-- Dlaczego „product per zespół” to pułapka i jak lokalna optymalizacja sabotuje biznes
-- Jak przekonać ludzi do zmiany – dlaczego jeden wspólny produkt to nie chaos, ale klarowność i realny impact
-- Co się zmienia, gdy przestajesz pytać „czy zespół jest zajęty”, a zaczynasz pytać „czy dostarczamy maksymalną globalną wartość”
-- Konkretne lekcje – błędy, których nie musisz popełniać, oraz praktyki gotowe do wdrożenia już jutro
-
-Jeśli zastanawiasz się, jak przejść od wielu zespołów pracujących „efektywnie”  
-do organizacji **dostarczającej wyniki** – ta prelekcja jest dla Ciebie.
-
-***
-
-### Jest to spotkanie dla:
-
-Liderów, którzy chcą usprawnić dostarczanie wartości  
-w wielozespołowych organizacjach produktowych
+- Dlaczego „product per zespół" to pułapka – jak lokalna optymalizacja sabotuje biznes
+ -Jak przekonać ludzi do zmiany – jeden wspólny produkt to nie chaos, ale klarowność i realny impact biznesowy
+- Co się zmienia, gdy przestajesz pytać „czy zespół jest zajęty", a zaczynasz pytać „czy dostarczamy maksymalną globalną wartość"
+- Konkretne lekcje – błędy, których nie musisz popełniać, i praktyki gotowe do wdrożenia już jutro
+- To historia prawdziwej transformacji wielozespołowej organizacji produktowej. Bez upiększania. Z błędami, z których się uczyliśmy. Z rozwiązaniami, które działają.
+- Jeśli zastanawiasz się, jak przejść od wielu zespołów pracujących „efektywnie" do organizacji dostarczającej wyniki – ta prelekcja jest dla Ciebie.
 
 ***
-
 ## Poznaj prowadzącego
 
 Cześć, jestem **Krzysztof Niewiński** – Transformation Manager & Product Coach.
