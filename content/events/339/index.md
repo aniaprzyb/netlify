@@ -10,46 +10,56 @@ slidesURL: ""
 draft: false
 ---
 
-## Warsztaty
+Aby skutecznie realizować ambitne cele, potrzebujemy lepiej rozumieć i poprawiać efektywność pracy, w tym przewidywalność naszych Zespołów.
 
-Ten warsztat pokazuje, jak podejmować decyzje strategiczne na podstawie realnego obrazu biznesu, a nie na bazie slajdów i opinii.
+Przewidywalność to nie tylko liczby – to zaufanie, że to, co planujemy, zostanie dostarczone.  
+Dla naszych klientów. Dla naszych partnerów. Dla nas samych.
 
-Uczysz się mapować potrzeby użytkowników, kluczowe komponenty systemu oraz ich dojrzałość rynkową.  
-W jednym widoku łączysz strategię, architekturę IT i kierunki rozwoju.
+Zapraszamy na wykład, podczas którego zobaczysz:
 
-Wyjdziesz z:
-- gotową mapą swojego obszaru,
-- zestawem decyzji „co teraz, co później”,
-- zrozumieniem, gdzie inwestować, a czego nie różnicować.
-
-Warsztat jest praktyczny, bez teorii dla samej teorii.
+- założenia systemu mierzenia przewidywalności planowania zespołów,
+- jak ten system działa globalnie – dla wszystkich Zespołów i Tribe’ów (Formacji),
+- jak z nim pracujemy na co dzień – wspólnie ze Scrum Masterami, dyrektorem delivery (IT) oraz liderami produktowymi i technicznymi.
 
 ***
 
-## Poznaj prowadzącego
+## Poznaj prowadzących
 
-**Krzysztof Daniel**  
-Informatyk z wykształcenia, który przeszedł na ciemną stronę mocy i został konsultantem. Autor pierwszej strony o mapach. Długoletni współpracownik autora map.
+**Maciej Stępnikowski**  
+Zarządza 20-osobowym zespołem Scrum Masterów. Swoje doświadczenie zawodowe kształtował przez kilka lat jako IT Project Manager, współpracując z dużymi klientami korporacyjnymi.
 
-Pomaga firmom podejmować lepsze decyzje w warunkach niepewności, porządkować chaos i zamieniać złożoność w czytelny plan działania. Pracuje na styku strategii, architektury i technologii.
+Następnie w trakcie ponad 9-letniej praktyki jako Scrum Master miał okazję uczestniczyć w transformacji małej firmy z podejścia projektowego na produktowe, a także działać na rzecz zwinnych transformacji na dużą skalę.
 
-Wykorzystuje m.in. **Wardley Mapping**, aby łączyć potrzeby biznesu z realnymi zdolnościami organizacji. Specjalizuje się w sytuacjach trudnych: zmiana modelu działania, presja kosztowa, konflikty interesów, niejasna odpowiedzialność.
+Od 2020 roku bierze udział w transformacji cyfrowej największego polskiego banku, gdzie pracuje nie tylko na poziomie zespołów, ale również całej organizacji. W tym czasie pracował m.in. w obszarze bankowości korporacyjnej, przy flagowej aplikacji IKO oraz w nowatorskim produkcie jakim jest Cyfrowa Hipoteka.
 
-Zamiast slajdów dostarcza mapy, decyzje i kierunek.
+Jest współtwórcą wdrażania globalnych miar w organizacji, takich jak Lead Time i Cycle Time, oraz inicjatorem stworzenia miar dotyczących przewidywalności zespołów. Ponadto od dwóch lat jest managerem zespołu Scrum Masterów.
+
+Prywatnie mąż i ojciec dwóch synów. W wolnym czasie gra na pianinie, angażuje się w działania pro publico bono swojego miasta, lubi podróżować po USA, jest również dorosłym fanem LEGO (AFOL).
 
 LinkedIn:  
-https://www.linkedin.com/in/christopherdaniel/
+https://pl.linkedin.com/in/maciejstepnikowski
+
+---
+
+**Karol Pawlik**
+
+Zaczynał i pracował jako programista, dzięki czemu przez 4 lata pracy dobrze poznał proces wytwórczy od kuchni – od rozwoju po utrzymanie, w tym tworzenie rozwiązań podnoszących efektywność pracy innych deweloperów (rozwój narzędzi do testów automatycznych czy narzędzia do analizy logów).
+
+W roli Scrum Mastera w największym polskim banku przez 4 lata pracował nad efektywnością zespołów – jak ją mierzyć i wyciągać wnioski z zespołami. Uczył Scrum Masterów procesu SDLC oraz działał nad optymalizacją procesu planistycznego na poziomie organizacyjnym.
+
+Pracował głównie z zespołami platformowymi, bliskimi technologii, z którymi sprawnie łączył kropki w celu usprawniania przepływu pracy.
+
+Dziś, w Zespole Adaptacyjności Organizacji, zajmuje się skalowaniem miar na ponad 130 zespołów oraz pracą nad ciągłym doskonaleniem w różnych obszarach organizacji.
+
+Po pracy lubi się wspinać (bouldering), podróżować i uczyć się nowych rzeczy (ostatnio gra na keyboardzie).
+
+LinkedIn:  
+https://pl.linkedin.com/in/pawlik-karol
 
 ***
 
-## Na warsztat zapraszamy:
+## Do kogo kierowany jest ten warsztat?
 
-- Product Ownerów
-- Product Managerów
-- Tech Leads
-- Architektów
-- CTOs
-- Osoby, które podejmują decyzje o kierunkach rozwoju
+Do praktyków zwinności: Scrum Masterów, Agile Coachów, Product Ownerów oraz wszystkich zainteresowanych pracujących nad wytwarzaniem produktów i usług.
 
-***
 
