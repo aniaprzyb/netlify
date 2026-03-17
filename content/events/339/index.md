@@ -6,7 +6,7 @@ speakers: "Maciej Stępnikowski, Karol Pawlik"
 lang: "pl"
 sponsors: ["PKO BP"]
 videoURL: ""
-slidesURL: "AgileWarsaw prez.pdf"
+slidesURL: ""
 draft: false
 ---
 
