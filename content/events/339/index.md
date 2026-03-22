@@ -63,6 +63,3 @@ https://pl.linkedin.com/in/pawlik-karol
 Do praktyków zwinności: Scrum Masterów, Agile Coachów, Product Ownerów oraz wszystkich zainteresowanych pracujących nad wytwarzaniem produktów i usług.
 
 ***
-
-
-Gorące podziękowania dla **PKO B.P.** za goszczenie wydarzenia!
