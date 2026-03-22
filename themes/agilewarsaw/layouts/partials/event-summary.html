@@ -1,26 +1,29 @@
+{{ $page := . }}
 <event>
     <div class="event-header">
-        <span class="event-number">#{{ .Params.number }}</span>
-        (<span class="event-date">{{- dateFormat "2006-01-02" .Params.date -}}</span>)
+        <span class="event-number">#{{ $page.Params.number }}</span>
+        {{ with $page.Date }}
+        (<span class="event-date">{{- dateFormat "2006-01-02" . -}}</span>)
+        {{ end }}
     </div>
-    <div class="event-speakers"> {{ .Params.speakers }} </div>
+    <div class="event-speakers"> {{ $page.Params.speakers }} </div>
     <div class="event-title">
-        <a href="{{ .RelPermalink }}"> {{ .Params.title }} </a>
-        {{ if (in .Params.lang "pl") }}
+        <a href="{{ $page.RelPermalink }}"> {{ $page.Title }} </a>
+        {{ if (in $page.Params.lang "pl") }}
             <img class="lang-icon" src="/assets/flag-pl.svg" />
         {{ end }}
-        {{ if (in .Params.lang "en") }}
+        {{ if (in $page.Params.lang "en") }}
             <img class="lang-icon" src="/assets/flag-uk.svg" />
         {{ end }}
-        {{ with .Params.videoURL }}
+        {{ with $page.Params.videoURL }}
             <a href="{{.}}" target="_blank"><img class="YT-icon-small" src="/assets/YT-red.svg"></a> 
         {{ else }}
             <img class="YT-icon-small" src="/assets/YT-gray.svg">
         {{ end }}
-        {{ with .Params.slidesURL }}
+        {{ with $page.Params.slidesURL }}
             {{ $url := urls.Parse . }}
             {{ if (eq $url.Host "") }} 
-                <a href="{{ path.Join $.Dir . | absURL}}">
+                <a href="{{ path.Join $page.RelPermalink . | relURL }}">
             {{ else }}
                 <a href="{{ . }}">
             {{ end }}
