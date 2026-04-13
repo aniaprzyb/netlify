@@ -119,10 +119,10 @@ logo = "img/logo_ALK.png"
 url = 'https://www.kozminski.edu.pl/'
 
 
-[[params.Sponsors]]
-name = "BEC Poland"
-logo = "img/logo_bec.png"
-url = 'https://www.linkedin.com/company/becpoland/'
+#[[params.Sponsors]]
+#name = "BEC Poland"
+#logo = "img/logo_bec.png"
+#url = 'https://www.linkedin.com/company/becpoland/'
 
 ####################################
 #  Partnerzy
@@ -147,55 +147,55 @@ url = 'https://nextgen.pm/'
 #  Media
 ####################################
 
-[[params.Media]]
-name = "Agile Polska"
-logo = "img/logo_APL.png"
-url = "http://agilepolska.pl/"
+#[[params.Media]]
+#name = "Agile Polska"
+#logo = "img/logo_APL.png"
+#url = "http://agilepolska.pl/"
 
-[[params.Media]]
-name = "Kanban przy kawie"
-logo = "img/logo_kanban_przy_kawie.png"
-url = 'https://kanbanprzykawie.pl/'
+#[[params.Media]]
+#name = "Kanban przy kawie"
+#logo = "img/logo_kanban_przy_kawie.png"
+#url = 'https://kanbanprzykawie.pl/'
 
-[[params.Media]]
-name = "Agile 247"
-logo = "img/logo_a247.jpg"
-url = "http://www.agile247.pl/"
+#[[params.Media]]
+#name = "Agile 247"
+#logo = "img/logo_a247.jpg"
+#url = "http://www.agile247.pl/"
 
 # [[params.Media]]
 # name = "Agile 4U"
 # logo = "img/logo_agile4u.png"
 # url = 'https://www.meetup.com/agile4u/'
 
-[[params.Media]]
-name = "LubLean"
-logo = "img/logo_LubLean.png"
-url = 'https://www.meetup.com/LubLean-and-Agile/'
+#[[params.Media]]
+#name = "LubLean"
+#logo = "img/logo_LubLean.png"
+#url = 'https://www.meetup.com/LubLean-and-Agile/'
 
-[[params.Media]]
-name = "Agile Wrocław"
-logo = "img/logo-agile-wroclaw.png"
-url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
+#[[params.Media]]
+#name = "Agile Wrocław"
+#logo = "img/logo-agile-wroclaw.png"
+#url = 'https://www.meetup.com/pl-PL/agilewroclaw/'
 
 [[params.Media]]
 name = "Agile Poznań"
 logo = "img/logo_agile_poznan.png"
 url = 'https://www.linkedin.com/groups/4406793'
 
-[[params.Media]]
-name = "Agile 3M"
-logo = "img/logo_agile3m.png"
-url = 'https://www.linkedin.com/company/agile3m'
+#[[params.Media]]
+#name = "Agile 3M"
+#logo = "img/logo_agile3m.png"
+#url = 'https://www.linkedin.com/company/agile3m'
 
 [[params.Media]]
 name = "Agile Silesia"
 logo = "img/logo_agile-silesia.png"
 url = 'https://www.agilesilesia.pl/'
 
-[[params.Media]]
-name = "ALE Kraków"
-logo = "img/logo-ale-krakow.png"
-url = 'https://www.alekrakow.com/'
+#[[params.Media]]
+#name = "ALE Kraków"
+#logo = "img/logo-ale-krakow.png"
+#url = 'https://www.alekrakow.com/'
 
 # [[params.Media]]
 # name = "Dare IT"
@@ -215,9 +215,9 @@ url = 'https://www.alekrakow.com/'
 name = "Ania Przybyszewska"
 img = "img/org_przybyszewska_2.svg"
 
-[[params.Orgs]]
-name = "Ewelina Startek"
-img = "img/org_startek_2.svg"
+#[[params.Orgs]]
+#name = "Ewelina Startek"
+#img = "img/org_startek_2.svg"
 
 # [params.Orgs]]
 # ame = "Ewa Koprowska"
@@ -235,9 +235,9 @@ img = "img/org_radaj_2.svg"
 name = "Tomek Słowikowski"
 img = "img/org_slowikowski_2.svg"
 
-[[params.Orgs]]
-name = "Łukasz Szóstek"
-img = "img/org_szostek_2.svg"
+#[[params.Orgs]]
+#name = "Łukasz Szóstek"
+#img = "img/org_szostek_2.svg"
 
 
 ####################################
@@ -250,12 +250,12 @@ img = "img/org_szostek_2.svg"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "12:30"
+time = "tbd"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
 name = "Otwarcie konferencji"
-time = "13:00"
+time = "tbd"
 remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
