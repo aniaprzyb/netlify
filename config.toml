@@ -307,19 +307,24 @@ Również w Polsce..
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Kate Hobler"
-    photo = "img/KateHobler.jpg"
+    name = "Bartosz Juszczak"
+    photo = "img/juszczak.jpg"
     bio = """
-   Mentorka o niezwykłej charyzmie. Jedna z najbardziej doświadczonych ekspertek zwinności, przywództwa i produktowości w Polsce. Akredytowana trenerka Scrum.org niemal od jego powstania. Ze względu na doświadczenie w pracy z liderami i biznesem, często przypadają jej w udziale najcięższe przypadki. Niezwykle cierpliwa i zdeterminowana. Chce zmienić sposób w jaki tworzy się oprogramowanie w Polsce. Przedsiębiorczyni prowadząca prawdziwą firmę - taką, która miała wzloty i upadki. Nie chowa się za fasadą sukcesu. Jako trenerka uczy wszystkiego co może pomóc organizacji zdobyć przewagę nad konkurencją: zwinności, przywództwa, zarządzania produktami, dobrego zarządzania ludźmi, pracy z zespołami. Do tego tworzy i nadzoruje programy rozwojowe dla specjalistów w zwinności, a nawet napisała o tym książkę - Kompetentny Scrum Master. Przed i po godzinach mama, macocha, fanka planszówek i Magica oraz miłośniczka dobrej kawy i herbaty. Uhonorowana nagrodą Wrocławianki Roku 2021.
+    Jestem liderem zorientowanym na ludzi, a moją specjalnością jest wspieranie organizacji w osiąganiu rezultatów biznesowych poprzez adaptacyjność i skuteczność pracy zespołowej, w warunkach szybko zmieniającego się świata. Dzięki temu mogą one skutecznie i efektywnie rozwijać produkty uwielbiane przez klientów.<br>
+Pomagam organizacjom budować świetne zespoły, z którymi każdy chce współpracować. Współtworzę podcast Team Possible, w którym rozmawiamy o przenoszeniu zespołów i ich liderów na wyższy poziom (<a href="http://teampossible.pl/" target="new_frame">http://teampossible.pl/</a>).<br>
+Wykorzystuję do tego moje wieloletnie doświadczenie jako lider zmiany, menedżer, coach czy trener oraz konsultant w wielu organizacjach o różnej wielkości, od start-upów po korporacje.<br>
+Przeprowadziłem szkolenia dla 500+ osób z zakresu zwinności, przywództwa oraz zespołowości oraz otwarte warsztaty dla ponad 200 osób przy okazji konferencji i spotkań lokalnych społeczności.
+Od 2016 roku jestem liderem społeczności Agile Poznań.<br>
+Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świeżym powietrzu, a także czytać kryminały.
     """
     
       [params.Schedule.authors.link]
-        href = 'https://www.linkedin.com/in/kate-hobler/'
-        text = 'LinkedIn'
+        href = 'https://bartekjuszczak.pl/'
+        text = 'www'
 
     [params.Schedule.presentation]
-      title = 'Naginanie organizacji, czyli dlaczego Twoja organizacja nie powinna być ani edżajl ani turkusowa.'
-      description = """ W świecie liderskim istnieje głębokie przekonanie, że zwinność, turkus, skalowanie, produkty i inne słowa kluczowe są (nomen omen) kluczowe dla sukcesu organizacji. Niestety, z popularnymi pomysłami jest jak z przeszczepami - wydaje się, że pasują, ale tak trochę nie do końca i pacjent ma problem do końca - nieraz krótkiego - życia. Podczas tej prelekcji spróbuję was przekonać, żeby nie być zwinnymi ani w skali ani żadnym innym turkusem - i że istnieje wiele innych dróg do sukcesu, który nie kosztuje 8000€/dzień pracy konsultanta. """
+      title = 'tbd'
+      description = """tbd """
 
 #------------------------
 
