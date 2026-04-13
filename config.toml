@@ -105,6 +105,9 @@ url = 'https://agilewarsaw.com/events/267/'
 name = "2024"
 url = 'https://agilewarsaw.com/events/292/'
 
+[[params.Previous]]
+name = "2025"
+url = 'https://agilewarsaw.com/events/320/'
 
 ####################################
 #  Sponsorzy
