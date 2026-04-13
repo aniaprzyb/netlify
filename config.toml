@@ -440,58 +440,6 @@ tbd
 # tematy warsztatów są w rozpisce powyżej
 #---------------------------------------
 
-[[params.Schedule]]
-workshop = true
-
-  # multiple authors per workshop are OK
-  [[params.Schedule.authors]]
-  name = "Justyna (Kęsik) Rędzikowska"
-  photo = "img/redzikowska.png"
-  bio = """
-  Specjalizuję się w Ways of Working. Buduję efektywne zespoły, wspierające społeczności, wbijam level up organizacjom. Pracuję z wartościami, ludźmi, danymi i procesami. Uwielbiam się uczyć oraz dzielić wiedzą. 
-  <br>
-  Od 2003 rozwijam się jako liderka, a od 2006 jako trenerka, facylitatorka i mentorka.
-  <br>
-  Lubię zadawać pytania, ogromnie ciekawi mnie świat, człowiek i procesy jakie zachodzą pomiędzy.
-  <br>
-  Aktualnie działam jako Scrum/Kanban Masterka oraz Agile Coachka w Danonie, choć na umowie mi napisano, że jestem Starszym Kierownikiem, a ja ani stara ani panowie pod Żabką nie mówią mi "Kierowniczko" ;)
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/justyna-redzikowska/'
-
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Staszek Matczak"
-  photo = "img/matczak.jpg"
-  bio = """
-  Po studiach niespodziewanie okazało się, że trzeba zarabiać na życie – więc poszedłem do pracy.
-Zaczynałem od pisania kodu. Ponieważ w miarę dobrze dogadywałem się z ludźmi, zaproponowano
-mi stanowisko kierownika zespołu. Planowałem prace, rozdzielałem zadania, rozwiązywałem
-problemy, rozmawiałem z ludźmi… Jednak coraz bardziej czułem, że w naszym IT coś nie gra.
-Pracowaliśmy wspólnie z utalentowanymi, zaangażowanymi ludźmi, a mimo to ciągle pojawiały się
-opóźnienia, wtopy i porażki.<br> 
-Szukając lepszych sposobów pracy odkryłem najpierw Scruma, a potem kolejne metody i koncepcje
-zwinne – Kanbana, zbiór metod z M3.0, sposoby skalowania… Wciągnęło mnie to bardzo. Przez jakiś
-czas łączyłem rolę menedżera zespołu i Scrum Mastera, potem menedżera zespołu i Product Ownera,
-aż wreszcie porzuciłem zarządzanie i skupiłem się na wdrażaniu metod zwinnych.
-Czego się nauczyłem? Że metody zwinne są proste do zrozumienia, ale trudne do zastosowania. Że
-organizacje brawurowo walczą z problemami, które same sobie stwarzają. Że warto jest
-niestrudzenie zadawać pytanie „dlaczego?”. Że często chęć zmiany jest powierzchowna. Że nie
-zawsze Scrum jest dobrym rozwiązaniem problemu. Że wszystko opiera się na wartościach.
-Jestem ojcem trójki wspaniałych dzieci, współorganizatorem trójmiejskiej społeczności Agile3M.
-Kiedyś pisałem coś na blogu www.trzeciakawa.pl 
-  """
-    [params.Schedule.authors.link]
-      text = 'www'
-      href = 'https://www.trzeciakawa.pl'
-
-
 # --------- WORKSHOP ------------
 
 [[params.Schedule]]
@@ -529,111 +477,6 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
 [[params.Schedule]]
 workshop = true
 
-  [[params.Schedule.authors]]
-  name = "Dominika Ciszewska"
-  photo = "img/dciszewska.jpg"
-  bio = """
-  Dominika Ciszewska, z wykształcenia inżynierka, z pasji trenerka zwinności. Fanka myślenia systemowego i precyzyjnej komunikacji. Orędowniczka odnoszenia się do danych oraz szybkiej weryfikacji hipotez. Jej zawodowy świat kręci się głównie wokół e-commerce’u, zadawania ludziom pytań oraz nazywania i upraszczania rzeczy. Prywatnie podróżniczka, miłośniczka przyrody i sportów wszelakich
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/dominika-ciszewska-855a9994/'
-
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Konrad Mizera"
-  photo = "img/KonradMizera.jpg"
-  bio = """
-  Konrad Gniazdowski i Konrad Mizera to doświadczeni trenerzy i praktycy, którzy z powodzeniem stosują techniki improwizacji teatralnej, wspierając rozwój kompetencji miękkich w środowisku biznesowym. Jako aktywni improwizatorzy (Sto Piosenek na Godzinę/Dynastia Improwizowana) regularnie występują na deskach warszawskich teatrów, piwnic i klubów. Swoje aktorskie doświadczenie wykorzystują w pracy z zespołami i liderami, pomagając im rozwijać kompetencje społeczne, inteligencję emocjonalną i umiejętność działania pod presją. Uczą, jak skutecznie reagować na zmiany i nieprzewidywalne sytuacje – z lekkością i odrobiną humoru.
-
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/konradmizera/'
-
-  [[params.Schedule.authors]]
-  name = "Konrad Gniazdowski"
-  photo = "img/KonradGniazdowski.jpg"
-  bio = """
-  Konrad Gniazdowski i Konrad Mizera to doświadczeni trenerzy i praktycy, którzy z powodzeniem stosują techniki improwizacji teatralnej, wspierając rozwój kompetencji miękkich w środowisku biznesowym. Jako aktywni improwizatorzy (Sto Piosenek na Godzinę/Dynastia Improwizowana) regularnie występują na deskach warszawskich teatrów, piwnic i klubów. Swoje aktorskie doświadczenie wykorzystują w pracy z zespołami i liderami, pomagając im rozwijać kompetencje społeczne, inteligencję emocjonalną i umiejętność działania pod presją. Uczą, jak skutecznie reagować na zmiany i nieprzewidywalne sytuacje – z lekkością i odrobiną humoru.
-
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/konrad-gniazdowski/'
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Kasia Mydło"
-  photo = "img/kmydlo.jpeg"
-  bio = """
-  Uwielbiam się uczyć i dzielić swoją wiedzą z innymi. Jestem niezwykle ciekawa, jak inni ludzie postrzegają naszą rzeczywistość, dlatego lubię zadawać wiele pytań. Wspieram organizacje w odkrywaniu lepszych sposobów na rozwijanie produktów (aka Agile Development). Stale poszukuję sposobów i metod, które mogą uczynić pracę zespołów i firm odrobinę lepszą każdego dnia.
-  <br>
-  I lubię koty. Koty są fajne.
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/kmydlo/'
-
-  [[params.Schedule.authors]]
-  name = "Maciek Stępnikowski"
-  photo = "img/mstepnikowski.jpg"
-  bio = """
-  Lubię ludzi i mam bardzo pozytywne nastawienie do pracy z nimi. Na co dzień działam, by zmieniać świat na lepszy.
-  W przeszłości przez kilka lat byłem IT Project Managerem - pracowałem z dużymi klientami korporacyjnymi. Przez 7 lat pracowałem w roli Scrum Mastera mając okazję uczestniczyć w transformacji małej firmy z podejścia projektowego na produktowe, a także wspierać transformację zwinną na dużą skalę. Od 2020 roku biorę udział w transformacji cyfrowej banku. Od roku pracuję jako manager zespołu Scrum Masterów, gdzie wspólnie zmieniamy organizację.
-  <br>
-  Prywatnie jestem spełnionym mężem i ojcem, uwielbiam planszówki, gram na pianinie, działam pro publico bono w moim rodzinnym mieście oraz jestem AFOLem (Adult Fan of LEGO). I mam kota, bo koty są fajne.
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/maciejstepnikowski/' 
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
-  [[params.Schedule.authors]]
-  name = "Ewa Kosterka"
-  photo = "img/ekosterka.jpeg"
-  bio = """
-  Jestem empirykiem, który cały czas szuka okazji do odkrywania tego, czego nie wie. Scrum i Agile świetnie wpisują się w moją naturę pod tym względem. Od ponad 10 lat jako Scrum Master razem z zespołami uczę się dostosowywać do zmieniającego się środowiska, osiągając wartość dla klientów.
-  <br>
-  Od 10 lat organizuję Agile Coach Camp, który daje mi okazję do realizowania mojej pasji, jaką jest poznawanie nowych ludzi.
-
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/ewa-kosterka-44617978/' 
-
-  [[params.Schedule.authors]]
-  name = "Marcin Ziółek"
-  photo = "img/mziolek.JPG"
-  bio = """
-  Zwinny praktyk, trener i coach, który od lat pomaga zespołom i liderom odkrywać, czym naprawdę jest Agile (a czym zdecydowanie nie jest). Współzałożyciel Rebelsi, gdzie z pasją szkoli i wspiera najlepszych liderów w Polsce. Współorganizator Agile Coach Camp Polska.
-  <br>
-  Doświadczenie zbierał w międzynarodowych firmach (m.in. Discovery, Ergo Digital IT, Tandem Bank, KMD Logic), a teraz jako niezależny konsultant dzieli się wiedzą i pomaga organizacjom działać efektywniej, bez korporacyjnej ściemy. Jest akredytowanym trenerem Management3.0, coachem, mentorem i facylitatorem, ale przede wszystkim – człowiekiem, który wierzy, że Agile to coś więcej niż procesy i narzędzia.
-  <br>
-  Po godzinach mistrz suchych żartów i niezłomny poszukiwacz idealnego flow w pracy i w życiu. 
-  """
-    [params.Schedule.authors.link]
-      text = 'LinkedIn'
-      href = 'https://www.linkedin.com/in/marcinziolek/' 
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
 [[params.Schedule.authors]]
   name = "Justyna Wykowska"
   photo = "img/JWykowska_2022.png"
@@ -659,56 +502,10 @@ workshop = true
         href = 'https://www.linkedin.com/in/wykowski/'
         text = 'LinkedIn'
 
-# --------- WORKSHOP ------------
 
-[[params.Schedule]]
-workshop = true
-
-[[params.Schedule.authors]]
-    name = "Marta Grzesiczek"
-    photo = "img/mgrzesiczek.jpeg"
-    bio = "Agile Coach, entuzjastka zwinności i zmian. Z IT jestem związana od ponad 20 lat, aktualnie pracuję jako Agile Coach w ING Hubs Poland. Na co dzień wspieram liderów i zespoły w doskonaleniu procesów, współorganizuję społeczność Agile Silesia, a także prowadzę procesy mentoringowe i coachingowe. Największą satysfakcję czerpię z pracy z ludźmi i obserwowania jak plany przekuwają w realną zmianę. Po godzinach świetnie bawię się z moją trójką dzieciaków lub gram w planszówki."
-
-      [params.Schedule.authors.link]
-        href = 'https://www.linkedin.com/in/marta-grzesiczek-she-her-97a3434/'
-        text = 'LinkedIn'
-
-[[params.Schedule.authors]]
-    name = "Kalina Górecka"
-    photo = "img/kgorecka.jpg"
-    bio = "Agile Coach wspierający zespoły oraz liderów w budowaniu zwinnej kultury pracy i efektywnej współpracy. W IT od ponad dekady w różnych rolach (programista, tester, Scrum Master). Aktualnie współpracuje z firmą LuxMed jako Agile Coach oraz współorganizuje społeczność Agile Silesia. Ukończone studia z coachingu pozwalają mi łączyć podejście coachingowe z metodami zwinnymi, wspierając ludzi i zespoły w ich rozwoju.Prywatnie uwielbiam planszówki, myślenie wizualne i pieczenie – w pracy i poza nią cenię kreatywność, eksperymentowanie i dzielenie się tym, co najlepsze."
-
-      [params.Schedule.authors.link]
-        href = 'https://www.linkedin.com/in/kalina-g%C3%B3recka-1252948b/'
-        text = 'LinkedIn'
         
-# --------- WORKSHOP ------------
 
-[[params.Schedule]]
-workshop = true
 
-[[params.Schedule.authors]]
-    name = "Adam Michalczyk"
-    photo = "img/amichalczyk.jpg"
-    bio = "Od 2009 roku zajmuję się profesjonalnie zwinnością. Przez ten czas nauczyłem się jak zmieniać zespoły i jak rozwijać ludzi, którzy je tworzą. Rozumiem, dlaczego tak trudno budować otwarte i profesjonalne procesy i środowiska pracy. Mogę Ci w tym pomóc. Pomagam organizacjom, które szukają swojej drogi w Agile. Możesz skorzystać z mnóstwa doświadczeń zdobytych przeze mnie przy wdrożeniach zwinności w wielu organizacjach. Prowadzę szkolenia dla organizacji, które rozwiązują konkretne problemy, budują kompetencje pracowników w obszarze przywództwa, optymalizacji procesów i zarządzania produktem. Jestem częścią grupy Rebelsi"
-
-      [params.Schedule.authors.link]
-        href = 'https://adammichalczyk.pl/'
-        text = 'WWW'
-
-# --------- WORKSHOP ------------
-
-[[params.Schedule]]
-workshop = true
-
-[[params.Schedule.authors]]
-    name = "Zuzanna Konarska"
-    photo = "img/zkonarska.jpg"
-    bio = "Jako Scrum Master pracuję od ponad 7 lat. Od trzech lat Praktyk Large Scale Scrum. Mam na swoim koncie doświadczenia prelegenckie (Agile by Example 2019, 2023, meetupy Trójmiasto Agile 3M 2019, 2023, Scrum Experience Day 2020, Scrum Summit 2024). W swojej pracy lubię to, że mogę zadawać dużo głupich pytań i wspólnie z zespołem znajdywać na nie odpowiedzi. Praktyk Liberating Structures, NVC a od ponad 6 lat wykorzystuję praktyki stoickie w swojej pracy. "
-
-      [params.Schedule.authors.link]
-        href = 'https://www.linkedin.com/in/zuzanna-konarska/'
-        text = 'LinkedIn'
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
