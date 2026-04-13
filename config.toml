@@ -1,14 +1,14 @@
 publishDir = "docs"
 baseurl = 'https://abelight.agilewarsaw.com'
-title = "ABE Light 2025"
+title = "ABE Light 2026"
 canonifyurls = true
 theme = "hugo-conference"
 
 [params]
-Name = "ABE Light 2025"
-Description = "AgileByExample Light 2025"
-Date = "6 kwietnia (niedziela)"
-startDate = "2025-04-06T12:30"
+Name = "ABE Light 2026"
+Description = "AgileByExample Light 2026"
+Date = "14 czerwca (niedziela)"
+startDate = "2025-04-06T13:30"
 Venue = "Akademia Leona Koźmińskiego"
 Address = "ul. Jagiellońska 57/59"
 City = "Warszawa"
@@ -262,12 +262,26 @@ remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Aga Szóstek"
-    photo = "img/szostek_aga.jpg"
+    name = "Prof. Andrzej Blikle"
+    photo = "img/ABlikle.jpeg"
     bio = """
-    Dr Aga Szóstek jest autorką "Strategii Umami" oraz "Zostań liderem, jakim chcesz!" i ekspertką w zakresie strategii i przywództwa.<br>
-    Przez ostatnie dwie dekady współpracowała z czołówką firm łączących design, technologię i biznes. Pracowała z takimi markami jak Google, Philips, Samsung, Play, Allegro, EY, Santander, ING, Orange i wieloma innymi, wnosząc do zespołów projektowych i zarządów strategiczne podejście oparte na projektowaniu doświadczeń.<br>
-    Aga wspiera także swoich klientów w rozwoju liderskim w oparciu o kluczowe wyzwania przywódcze zakotwiczone w ich organizacyjnej kulturze. Oferuje unikatowe programy liderskie dostarczane w formie niezapomnianego doświadczenia.
+    Prof. Andrzej Blikle jest matematykiem i informatykiem specjalizującym się w
+matematycznych podstawach inżynierii oprogramowania, a także trenerem biznesu.
+W latach 1990 – 2010 rozwinął swoją cukierniczą firmę rodzinną założoną w roku
+1869 z jednej cukierni w Warszawie do piętnastu placówek (cukiernie, kawiarni,
+restauracje i sklepy delikatesowe) w Warszawie i ośmiu w ogólnopolskiej sieci
+franczyzowej.
+Od roku 2018 prowadzi firmę szkoleniowo-doradcą Andrzej Blikle Doradca oferując
+szkolenia zarówno dla indywidualnych firm i organizacji, jak i w ramach studiów MBA,
+mi.in. w Instytucie Nauk Ekonomicznych PAN.
+Jego książka „Doktryna jakości – rzecz o skutecznym zarządzaniu” zajęła w 2015 r.
+pierwsze miejsce w kategorii „Najlepszy poradnik ekonomiczny” w konkursie
+Economicus 2015 organizowanym przez „Dziennik Gazeta Prawna”, a w 2016 r.
+otrzymała nagrodę Kolegium Nauk o Przedsiębiorstwie Szkoły Głównej Handlowej w
+Warszawie „za najlepszą pracę z zakresu nauk o przedsiębiorstwie w latach 2014 –
+2015”.
+Jest członkiem Europejskiej Akademii Nauk, Rady Języka Polskiego i ponad 20
+innych organizacji.
     """
 
       [params.Schedule.authors.link]
