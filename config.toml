@@ -285,12 +285,23 @@ innych organizacji.
     """
 
       [params.Schedule.authors.link]
-        href = 'https://agaszostek.com/'
+        href = 'https://moznainaczej.com.pl/ksiazka-i-artykuly/turkus-i-bcorpy'
         text = 'www'
 
     [params.Schedule.presentation]
-      title = 'Sztuka bycia dobrym liderem'
-      description = """ Wiele organizacji i społeczności ma nie tylko dług technologiczny, lecz także dług przywódczy. Kiedy dołączacie do nowego miejsca, otrzymujecie domyślny i niezdefiniowany zestaw założeń dotyczących tego, jakimi przywódcami powinniście być. Jest to zwykle połączenie duchów przeszłych i obecnych liderów, z ich dobrymi i złymi nawykami wzmocnionymi przez ogólną kulturę organizacyjną. Można więc bezpiecznie założyć, że nie ma jednej odpowiedzi na pytanie, czym jest „dobre” przywództwo w miejscu, w którym się znajdujecie. Każda odpowiedź jest dobra, o ile czujecie, że wasze podejście pasuje do was i pomaga innym wokół was rozwijać ich potencjał. Prawdopodobnie wiecie, co cenicie w liderach, przełożonych i menedżerach, których spotkaliście na swojej dotychczasowej drodze, a jakich postaw chcecie uniknąć za wszelką cenę. Przyjrzyjmy się zatem, jak dowiedzieć się, jakim liderem chcecie zostać (bez względu na to czy prowadzicie zespół, projekt, czy też chcecie przekonać waszą organizację do waszego sposobu myślenia). 
+      title = 'Turkusowa organizacja XXI wieku. Nowy paradygmat organizowania pracy zespołowej'
+      description = """ Przedmiotem wykładu będzie przedstawienie słuchaczom nowych idei związanych z
+organizowaniem pracy zespołowej. Na gruncie filozoficznym są one znane od
+czterech tysięcy lat i można je streścić słowami: “ludzie wolni i szczęśliwi pracują
+lepiej”. Jednak stosunkowo od niedawna (kilkadziesiąt lat) nabierają praktycznego
+wymiaru w tym sensie, że pojawia się coraz więcej organizacji, a w tym i firm, które
+potrafią je wdrożyć i dzięki temu osiągnąć spektakularne sukcesy. Niedawno opisał je
+w bardzo przekonywujący sposób Frederic Laloux i nazwał organizacjami
+turkusowymi, a ja w ciągu ostatnich 15 lat spotykam bardzo wiele takich firm wśród
+moich słuchaczy. Na podstawie ich wypowiedzi szacuję, że jest ich w Polsce pewnie
+dobrze ponad tysiąc, choć – być może – wiele z nich jeszcze nie wie, że mówią
+„turkusową prozą”. Dość pokaźną grupę turkusowych organizacji stanowią też szkoły.
+Również w Polsce.. 
       """
 #------------------------
 
