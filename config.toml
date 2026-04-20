@@ -310,12 +310,9 @@ Również w Polsce..
     name = "Bartosz Juszczak"
     photo = "img/juszczak.jpg"
     bio = """
-    Jestem liderem zorientowanym na ludzi, a moją specjalnością jest wspieranie organizacji w osiąganiu rezultatów biznesowych poprzez adaptacyjność i skuteczność pracy zespołowej, w warunkach szybko zmieniającego się świata. Dzięki temu mogą one skutecznie i efektywnie rozwijać produkty uwielbiane przez klientów.<br>
-Pomagam organizacjom budować świetne zespoły, z którymi każdy chce współpracować. Współtworzę podcast Team Possible, w którym rozmawiamy o przenoszeniu zespołów i ich liderów na wyższy poziom (<a href="http://teampossible.pl/" target="new_frame">http://teampossible.pl/</a>).<br>
-Wykorzystuję do tego moje wieloletnie doświadczenie jako lider zmiany, menedżer, coach czy trener oraz konsultant w wielu organizacjach o różnej wielkości, od start-upów po korporacje.<br>
-Przeprowadziłem szkolenia dla 500+ osób z zakresu zwinności, przywództwa oraz zespołowości oraz otwarte warsztaty dla ponad 200 osób przy okazji konferencji i spotkań lokalnych społeczności.
-Od 2016 roku jestem liderem społeczności Agile Poznań.<br>
-Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świeżym powietrzu, a także czytać kryminały.
+    Wspieram organizacje i ich zespoły w osiąganiu trwałych zmian, łącząc praktyczne zarządzanie zmianą z profesjonalnym coachingiem. Moja specjalność to budowanie zwinności jako strategicznej kompetencji by umożliwiać osiąganie lepszych rezultatów biznesowych. Moje doświadczenie obejmuje liderskie role w trzech transformacjach zwinnych (mających wpływ na pracę kilkuset do 1500+ osób).
+    <br>Jako ekspert patrzę na firmy systemowo, wspierając innowacyjność poprzez dobre przywództwo, skuteczne uczenie się organizacji oraz jej zdolność do adaptacji. Jako akredytowany coach ICF (zespołów i indywidualny) pomagam zespołom przezwyciężać trudności i wchodzić na wyższy poziom synergii oraz współodpowiedzialności. Swoje wieloletnie doświadczenie jako lider, menedżer i konsultant zdobywałem w organizacjach o różnej skali – od start-upów po międzynarodowe korporacje.
+    <br> Więcej o mnie: https://www.linkedin.com/in/bartoszjuszczak/ oraz https://bartekjuszczak.pl/
     """
     
       [params.Schedule.authors.link]
@@ -323,8 +320,15 @@ Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świe
         text = 'www'
 
     [params.Schedule.presentation]
-      title = 'tbd'
-      description = """tbd """
+      title = 'Ludzka twarz zmiany. 7 grzechów głównych, które sabotują trwałość transformacji.'
+      description = """Większość transformacji kończy się fiaskiem nie dlatego, że zawiodły procesy czy technologie. Nie osiągają zakładanego sukcesu, bo zostały zaprojektowane jako modele operacyjne w arkuszu kalkulacyjnym, z pominięciem najważniejszego ogniwa: ludzkiej gotowości na zmianę status quo.
+      <br>
+      Zmiana na poziomie organizacji niemal zawsze wywołuje opór, frustrację i napięcie. Liderzy naturalnie skupiają się na procedurach i dowiezieniu artefaktów. Jednak kluczem do mierzalnych rezultatów biznesowych jest aspekt ludzki – to on decyduje, czy inwestycja w transformację ostatecznie się zwróci.
+      <br> 
+      Opierając się na własnych doświadczeniach z wiodących ról w trzech dużych transformacjach (każda obejmująca od kilkuset do ponad 1500 osób), zapraszam Cię do spojrzenia prawdzie w oczy. Przyjrzymy się 7 grzechom głównym, które sprawiają, że mimo ogromnych nakładów, organizacje nigdy nie wychodzą ze starego porządku lub po cichu do niego wracają. Tych lekcji nie znajdziesz w podręcznikach.
+      <br> To wystąpienie jest dla każdego, kto chce wyjść poza iluzję transformacji i budować zmianę, która przetrwa próbę czasu - bo została przez ludzi zaakceptowana, a nie jedynie narzucona przez zarząd.
+
+"""
 
 #------------------------
 
@@ -398,13 +402,13 @@ zainteresowanie tym, co do nas mówi. I tej właśnie umiejętności poświęcim
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
 <strong> Bartosz Juszczak<br> 
-tbd
+Ludzka twarz zmiany. Liderskie cnoty w procesie transformacji.
  <br>
 </strong>
 <br>
-tbd
-
-
+Uświadomienie sobie 7 grzechów głównych to dopiero początek drogi do rzeczywistej transformacji. Warsztaty będą pogłębieniem wcześniejszego wystąpienia i zaproszeniem do wspólnego wypracowania metod, które minimalizują ryzyko braku zmiany lub powrotu organizacji do starego status quo. To przestrzeń, by zadać trudne pytania i znaleźć odpowiedzi na to, jak sprawić, by ogromna inwestycja w zmianę – mierzona czasem, energią czy budżetem – ostatecznie się zwróciła.
+<br>
+Podczas warsztatów skupimy się przede wszystkim na aspektach przywództwa i postawach liderskich. To one stanowią kluczowy fundament, by skutecznie zaadresować ludzkie aspekty zmiany i zagwarantować jej realną trwałość. Wyjdziesz z warsztatów z konkretną perspektywą na to, jak poprzez własną postawę wspierać transformację w sposób skuteczny, trwały i – przede wszystkim – po ludzku udany.
 
 
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
@@ -460,12 +464,9 @@ workshop = true
   name = "Bartek Juszczak"
   photo = "img/juszczak.jpg"
   bio = """
-  Jestem liderem zorientowanym na ludzi, a moją specjalnością jest wspieranie organizacji w osiąganiu rezultatów biznesowych poprzez adaptacyjność i skuteczność pracy zespołowej, w warunkach szybko zmieniającego się świata. Dzięki temu mogą one skutecznie i efektywnie rozwijać produkty uwielbiane przez klientów.<br>
-Pomagam organizacjom budować świetne zespoły, z którymi każdy chce współpracować. Współtworzę podcast Team Possible, w którym rozmawiamy o przenoszeniu zespołów i ich liderów na wyższy poziom (<a href="http://teampossible.pl/" target="new_frame">http://teampossible.pl/</a>).<br>
-Wykorzystuję do tego moje wieloletnie doświadczenie jako lider zmiany, menedżer, coach czy trener oraz konsultant w wielu organizacjach o różnej wielkości, od start-upów po korporacje.<br>
-Przeprowadziłem szkolenia dla 500+ osób z zakresu zwinności, przywództwa oraz zespołowości oraz otwarte warsztaty dla ponad 200 osób przy okazji konferencji i spotkań lokalnych społeczności.
-Od 2016 roku jestem liderem społeczności Agile Poznań.<br>
-Jestem mężem i ojcem, uwielbiam długie spacery i różne aktywności na świeżym powietrzu, a także czytać kryminały.
+    Wspieram organizacje i ich zespoły w osiąganiu trwałych zmian, łącząc praktyczne zarządzanie zmianą z profesjonalnym coachingiem. Moja specjalność to budowanie zwinności jako strategicznej kompetencji by umożliwiać osiąganie lepszych rezultatów biznesowych. Moje doświadczenie obejmuje liderskie role w trzech transformacjach zwinnych (mających wpływ na pracę kilkuset do 1500+ osób).
+    <br>Jako ekspert patrzę na firmy systemowo, wspierając innowacyjność poprzez dobre przywództwo, skuteczne uczenie się organizacji oraz jej zdolność do adaptacji. Jako akredytowany coach ICF (zespołów i indywidualny) pomagam zespołom przezwyciężać trudności i wchodzić na wyższy poziom synergii oraz współodpowiedzialności. Swoje wieloletnie doświadczenie jako lider, menedżer i konsultant zdobywałem w organizacjach o różnej skali – od start-upów po międzynarodowe korporacje.
+    <br> Więcej o mnie: https://www.linkedin.com/in/bartoszjuszczak/ oraz https://bartekjuszczak.pl/
   """
     [params.Schedule.authors.link]
       text = 'www'
