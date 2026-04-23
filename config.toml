@@ -334,7 +334,7 @@ Również w Polsce..
 
 [[params.Schedule]]
     [[params.Schedule.authors]]
-    name = "Jakub Perlak"
+    name = "dr Jakub Perlak"
     photo = "img/jperlak.jpeg"
     bio = """ Konsultant organizacyjny, trener i coach, a także okazjonalny wykładowca i prelegent na konferencjach. Rozwijam organizacje poprzez łączenie perspektywy relacyjnej z systemową. Wspieram budowanie zdolności adaptacyjnych, a także transformacyjnych firm, tworząc środowiska nastawione na współpracę, współdzielenie przywództwa i samoorganizację. Pomagam zespołom osiągać efektywność. Napędza mnie różnorodność i kreatywność wyłaniające się przy pracy z grupami oraz liderami.
 Doktor nauk społecznych w dyscyplinie zarządzania i nauk o jakości. Badam przywództwo i samoorganizację, będą przede wszystkim praktykiem posiadającym kilkunastoletnie doświadczenie w branży IT, na różnych stanowiskach, m.in. menedżer, team leader czy Agile Coach. 
@@ -345,8 +345,8 @@ Więcej o mnie: jakubperlak.pl i linkedin https://pl.linkedin.com/in/jakub-perla
 
 
     [params.Schedule.presentation]
-      title = 'tbd'
-      description = """ tbd
+      title = 'Dynamika zmian organizacyjnych. Trzy rodzaje zmian i wskazówki dla praktyków. '
+      description = """ Dlaczego mimo dostępu do zaawansowanych narzędzi większość programów zmian wciąż kończy się niepowodzeniem? Odpowiedź nie leży w braku lepszych planów czy też długiego okresu przygotowywania, ale w niezrozumieniu głębokich procesów społecznych i psychologicznych zachodzących wewnątrz organizacji. Opowiem o elementach zmiany związanych z władzą, strukturą i kulturą. Brzmi obiecująco? Poznasz rodzaje zmian i jak sobie z nimi radzić, co działa, a co jest przeciwskuteczne. Gdzie zwykle liderzy, praktycy Agile, ale nie tylko oni, natrafią na ściany i co z tym zrobić. 
       """
 
 #------------------------
@@ -416,11 +416,14 @@ Podczas warsztatów skupimy się przede wszystkim na aspektach przywództwa i po
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
-<strong> Jakub Perlak <br> 
-tbd
+<strong> dr Jakub Perlak <br> 
+Zrozum System. Zaprojektuj Zmianę. 
 <br><br>
 </strong>
-tbd
+<br>
+Masz dość gaszenia pożarów i doraźnych interwencji? Chcesz lepiej zrozumieć opór w organizacji i zacząć go wykorzystywać jako energię do transformacji?
+
+Dołącz do intensywnego warsztatu, gdzie połączymy dyscyplinę myślenia systemowego z głębokim relacyjnym podejściem do zmiany. Pracując wspólnie, będziemy się uczyć, jak diagnozować blokady w zmianie i projektować interwencje, które prowadzą do trwałej, systemowej zmiany.
 
  
 """
