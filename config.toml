@@ -428,6 +428,24 @@ Dołącz do intensywnego warsztatu, gdzie połączymy dyscyplinę myślenia syst
 <!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
 <p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
 
+<strong> Dariusz Góras <br> 
+Zobaczyć niewidzialne: Jak Notestorming „rozbraja” opór przed zmianą?
+<br><br>
+</strong>
+<br>
+Zapraszam Cię na warsztat, na którym przestaniemy o problemach rozmawiać, a zaczniemy im się... przyglądać. Dosłownie.
+Podczas tych dwóch godzin doświadczysz Notestormingu – metody, która pozwala „wyjąć” myśli z głowy i zmaterializować je na kolorowych karteczkach. Zamiast tracić energię na przekonywanie nieprzekonanych, nauczymy się strukturyzować chaos opinii, faktów i obaw w rygorystyczny, wizualny układ. 
+Na przykładzie starcia „Strażników tradycji" z „Pionierami innowacji”  sprawdzimy w praktyce:
+        - Jak obiektywizować lęki, by przestały blokować działanie?  
+        - Jak przejść od emocjonalnego impasu do generowania rozwiązań, których nie było widać w gęstym dymie dyskusji?  
+        - Jak sprawić, by każdy uczestnik procesu poczuł się autorem rozwiązania, a nie ofiarą zmiany?  
+To nie będzie kolejny wykład. To sesja „brudzenia rąk” markerami, gdzie poczujesz, jak zmiana perspektywy z „słyszę, co mówisz” na „widzę, co myślimy” zmienia wszystko. Wyjdziesz z konkretnym doświadczeniem. 
+
+To praktyczna sesja pełna przykładów, dyskusji i konkretnych narzędzi, które możesz wykorzystać w swojej organizacji od razu po warsztacie.
+
+<!-- -----------------SEPARATOR WARSZTATÓW ----------------- -->
+<p style="border-bottom:1px solid #000;border-top-width: 0px;border-top-style: solid;margin-top: 1em;margin-bottom: 1em;"></p>
+
 <strong> Wiktor Żołnowski <br> 
 Jak skutecznie współpracować z Zarządem przy zmianie organizacyjnej 
 <br><br>
@@ -503,6 +521,26 @@ workshop = true
 workshop = true
 
 [[params.Schedule.authors]]
+  name = "Dariusz Góras"
+  photo = "img/dgoras.png"
+  bio = """
+dr Dariusz Góras z wykształcenia jest andragogiem (Edukacja Dorosłych). Doktorat obronił na Uniwersytecie Łódzkim w 2005 roku. Jego praca badawcza skupiała się wokół tematyki efektywności osobistej (zaradności życiowej) oraz możliwości jej rozwijania u osób dorosłych. W branży konsultingowo-szkoleniowej funkcjonuje od 1996 roku. Jako trener posiada 29-letnie doświadczenie zawodowe. Przeszkolił do tej pory ponad 17 000 osób w różnych Instytucjach i Organizacjach. Jako coach funkcjonuje na rynku od 2008roku, jako konsultant i moderator od 2011 roku.
+W 2001 roku założył firmę szkoleniową MAESTRIUM Sp. z o.o. z siedzibą w Łodzi. Główna specjalizacja firmy w realizacji projektów konsultingowo-szkoleniowych skupia się na rozwijaniu i doskonaleniu efektywności osobistej oraz kompetencji miękkich i organizacyjnych. Współpracuje z kilkunastoosobowym zespołem trenerów, coachów i konsultantów o różnych specjalizacjach.
+Jako lider projektów opracowywał i realizował przedsięwzięcia szkoleniowe i doradcze z zakresu rozwoju kompetencji miękkich, menadżerskich i handlowych. Byt liderem wykonawczym dla takich korporacji jak KGHM PM S.A., Indesit Company Sp. z o.o. i Uni-Truck Sp. z o.o. Realizował z powodzeniem projekty szkoleniowe, tj. "Studium Przywództwa - rozwój kompetencji menadżerskich", "Studium Skutecznego Handlowca" oraz "Warsztaty Strategiczne dla inżynierów górnictwa", dla grup liczących od 150 do 700 osób.
+Od 2011 roku Pan Góras prowadzi intensywne badania i działania w zakresie moderacji procesów decyzyjnych jako usługi z pogranicza konsultingu. Jest autorem metody Moderowanych Sesji Problemowo-Projektowych oraz książki o metodyce rozwiązywania problemów zwanej Notestormingiem®, które z powodzeniem wdraża na rynku usług doradczo-szkoleniowych. Do chwili obecnej skorzystało z tej usługi kilkadziesiąt Organizacji i Firm w kraju. Dariusz Góras wraz ze swoim zespołem moderatorów pomógł do tej pory rozwiązać około 100 problemów (organizacyjnych, społecznych, technicznych). W jego sesjach wzięło udział ponad 950 osób. Pomógł opracować Klientom następujące rozwiązania:
+"Wdrożenie procedury Audytu Behawioralnego"; ”Wdrożenie nowego systemu rekrutacyjnego w KGHM MP S.A."; "Zaprojektowanie propozycji modelu motywowania pozafinansowego"; "Zbudowanie Systemu Okresowych Ocen Pracowniczych w branży górniczej"; "Zaprojektowanie Programu Zarządzania Wiedzą"; "Wdrożenie filozofii Lean Management w produkcji"; "Program rozwojowy Kopalnia Talentów"; "Program efektywnościowy Stop Marnotrawstwu!".
+Klientami w dotychczasowej Jego karierze byli min.: KGHM, Indesit, Lotnisko Pyrzowice, Nordea PTU i PTE, PZU, TP, PKO BP, Macro Cash & Carry, Sokółka Okna i Drzwi, Rockwool, Gatta, Elektrociepłownia Kraków, AstraZenecca, Elektrownia Rybnik, Avon Cosmetics, Geant, Elektrownia Bełchatów i około 30 pomniejszych podmiotów gospodarczych.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.maestrium.pl/'
+     text = 'WWW'
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
   name = "Wiktor Żołnowski"
   photo = "img/wzolnowski.png"
   bio = """
@@ -510,8 +548,8 @@ CEO Pragmatic Coders, firmy specjalizującej się w ratowaniu, przejmowaniu i ws
 
   """
      [params.Schedule.authors.link]
-     href = 'https://www.linkedin.com/in/justynawykowska'
-     text = 'LinkedIn'
+     href = 'https://pragmaticcoders.com'
+     text = 'WWW'
 
 # --------- WORKSHOP ------------
 
