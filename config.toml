@@ -653,20 +653,7 @@ Mocno wierzę, że ludzie pracują tak, jak im system pozwala. Dlatego zawsze pa
      href = 'https://agilefit.org/'
      text = 'WWW'
 
-# --------- WORKSHOP ------------
 
-[[params.Schedule]]
-workshop = true
-
-[[params.Schedule.authors]]
-  name = "Justyna Wykowska"
-  photo = "img/JWykowska_2022.png"
-  bio = """
- Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
-  """
-     [params.Schedule.authors.link]
-     href = 'https://www.linkedin.com/in/justynawykowska'
-     text = 'LinkedIn'
 
 
 # --------- WORKSHOP ------------
@@ -684,9 +671,50 @@ workshop = true
         text = 'LinkedIn'
 
 
-        
+# --------- WORKSHOP ------------
 
+[[params.Schedule]]
+workshop = true
 
+[[params.Schedule.authors]]
+  name = "Justyna Wykowska"
+  photo = "img/JWykowska_2022.png"
+  bio = """
+ Od 2005 roku nieustannie uczestniczę w rozwoju produktów.  Przez 11 lat pracowałam dla Motorola Solutions, prowadząc międzynarodowe zespoły opracowujące rozwiązania, w skład których wchodziło nie tylko oprogramowanie, ale również dedykowany sprzęt. Przebyłam drogę od członka zespołu, po managera kilkudziesięcioosobowego działu odpowiedzialnego za nowatorskie produkty i zbudowałam ponad 20 odnoszących sukcesy zespołów. Od 2014 roku wspieram firmy z różnych sektorów biznesu jako mentor i konsultant. 
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/justynawykowska'
+     text = 'LinkedIn'        
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+  name = "Kasia Mydło"
+  photo = "img/kmydlo.jpg"
+  bio = """
+ Cześć, jestem Kasia. Od kilku lat wspieram zespoły zdeterminowane do zmian w podejściu do pracy. Wcześniej działałam w różnych branżach, więc wiem, że nie ma jednego idealnego rozwiązania. W pracy szczególnie cieszy mnie rozgryzanie jak działają zespoły i znajdowanie sposobów na to, żeby zostawić po sobie organizację lepszą niż ta, do której dołączyłam. Lubię uczyć się i przekazywać wiedzę, a na co dzień doceniam dynamikę i szczerość – czasem aż do bólu. Gdy nie pracuję, odpoczywam z trójką moich kotów, ceniąc sobie każdą dodatkową minutę snu.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/kmydlo/'
+     text = 'LinkedIn'    
+
+# --------- WORKSHOP ------------
+
+[[params.Schedule]]
+workshop = true
+
+[[params.Schedule.authors]]
+  name = "Leszek Piątek"
+  photo = "img/lpiatek.jpg"
+  bio = """
+Product Manager z ponad 10-letnim doświadczeniem w rolach PM, Scrum Master i PMO Lead. Obecnie Product Manager w SoftwareOne, odpowiedzialny za globalną strategię usług Copilot i Digital Workplace. Na co dzień buduje agentów AI, którzy wykonują większość jego pracy PM-a.
+  """
+     [params.Schedule.authors.link]
+     href = 'https://www.linkedin.com/in/leszekpiatek/ '
+     text = 'LinkedIn'    
 
 # --------- WORKSHOP ------------
 #[[params.Schedule]]
