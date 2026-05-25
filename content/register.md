@@ -36,7 +36,7 @@ Konkretnie:
 
 ## ...i wreszcie:
 
-#### 👉 Zapisz się <u>**[TUTAJ](https://join.slack.com/t/abelight2026/shared_invite/zt-3td8aalkh-iSu3Fek3DABvPPJqi6XElQ)**</u> 👈
+#### 👉 Zapisz się **<u>[TUTAJ](https://join.slack.com/t/abelight2026/shared_invite/zt-3td8aalkh-iSu3Fek3DABvPPJqi6XElQ)</u>** 👈
 
 <h4 style="font-size: 2.2em;"><br> Jeśli Slack wyświetla Ci komunikat o błędzie:</h4>
 
