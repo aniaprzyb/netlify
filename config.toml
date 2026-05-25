@@ -579,7 +579,7 @@ workshop = true
 
 [[params.Schedule.authors]]
   name = "Marcin Kępka"
-  photo = ""
+  photo = "img/mkepka.png"
   bio = """
 Od 25 lat pracuję w obszarze wytwarzania oprogramowania. 10 lat temu przeszedłem na zwinną stronę mocy, a od 5 lat jestem również konsultantem i trenerem w ramach agilefit.org. Okazjonalnie dzielę się wiedzą i doświadczeniem na konferencjach i spotkaniach społeczności Agile.
 
