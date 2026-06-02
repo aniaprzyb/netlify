@@ -254,12 +254,12 @@ img = "img/TEAM-JT.svg"
 
 [[params.Schedule]]
 name = "Zapisy na warsztaty"
-time = "tbd"
+time = "12:15"
 remark = 'Warto być na czas! Zapisy będą na miejscu i najciekawsze warsztaty zapełnią się najszybciej.'
 
 [[params.Schedule]]
 name = "Otwarcie konferencji"
-time = "tbd"
+time = "13:00"
 remark = 'Trochę informacji logistycznych i lecimy z programem…'
 
 #------------------------
