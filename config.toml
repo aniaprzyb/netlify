@@ -202,10 +202,10 @@ url = 'https://www.agilesilesia.pl/'
 # logo = 'img/logo_DareIT.png'
 # url = 'https://www.dareit.io/'
 
-# [[params.Media]]
-# name = "Zwinna Łódź"
-# logo = 'img/logo_zwinna_lodz.svg'
-# url = 'https://www.meetup.com/Zwinna-Lodz/'
+[[params.Media]]
+name = "AGILE pod Wawelem"
+logo = 'img/logo_podwawelem.png'
+url = 'https://www.linkedin.com/company/agile-pod-wawelem/'
 
 ####################################
 #  Organizatorzy
