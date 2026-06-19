@@ -20,7 +20,7 @@ Przedmiotem wykładu będzie przedstawienie słuchaczom nowych idei związanych 
 
 [Nagranie prezentacji]("link")
 
-[Slajdy](A. Blikle.pdf)
+[Slajdy](A.%20Blikle.pdf)
 
 ## Barosz Juszczak
 
