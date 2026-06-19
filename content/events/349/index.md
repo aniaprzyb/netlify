@@ -1,6 +1,6 @@
 ---
 number: "349" 
-date: "2025-06-14T13:00:00+01:00"
+date: "2026-06-14T13:00:00+01:00"
 title: "ABE Light 2026"
 speakers: ""
 lang: "pl"
