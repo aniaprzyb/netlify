@@ -20,8 +20,40 @@ Przedmiotem wykładu będzie przedstawienie słuchaczom nowych idei związanych 
 
 <a href="" target="_blank">Nagranie prezentacji</a>.
 
+<a href="A. Blikle.pdf" target="_blank">Slajdy</a>.
+
+## Barosz Juszczak
+
+### Ludzka twarz zmiany. 7 grzechów głównych, które sabotują trwałość transformacji.
+
+Większość transformacji kończy się fiaskiem nie dlatego, że zawiodły procesy czy technologie. Nie osiągają zakładanego sukcesu, bo zostały zaprojektowane jako modele operacyjne w arkuszu kalkulacyjnym, z pominięciem najważniejszego ogniwa: ludzkiej gotowości na zmianę status quo.
+Zmiana na poziomie organizacji niemal zawsze wywołuje opór, frustrację i napięcie. Liderzy naturalnie skupiają się na procedurach i dowiezieniu artefaktów. Jednak kluczem do mierzalnych rezultatów biznesowych jest aspekt ludzki – to on decyduje, czy inwestycja w transformację ostatecznie się zwróci.
+Opierając się na własnych doświadczeniach z wiodących ról w trzech dużych transformacjach (każda obejmująca od kilkuset do ponad 1500 osób), zapraszam Cię do spojrzenia prawdzie w oczy. Przyjrzymy się 7 grzechom głównym, które sprawiają, że mimo ogromnych nakładów, organizacje nigdy nie wychodzą ze starego porządku lub po cichu do niego wracają. Tych lekcji nie znajdziesz w podręcznikach.
+To wystąpienie jest dla każdego, kto chce wyjść poza iluzję transformacji i budować zmianę, która przetrwa próbę czasu - bo została przez ludzi zaakceptowana, a nie jedynie narzucona przez zarząd.
+
+<a href="" target="_blank">Nagranie prezentacji</a>.
+
 <a href="" target="_blank">Slajdy</a>.
 
+## dr Jakub Perlak
+
+### Dynamika zmian organizacyjnych. Trzy rodzaje zmian i wskazówki dla praktyków.
+
+Dlaczego mimo dostępu do zaawansowanych narzędzi większość programów zmian wciąż kończy się niepowodzeniem? Odpowiedź nie leży w braku lepszych planów czy też długiego okresu przygotowywania, ale w niezrozumieniu głębokich procesów społecznych i psychologicznych zachodzących wewnątrz organizacji. Opowiem o elementach zmiany związanych z władzą, strukturą i kulturą. Brzmi obiecująco? Poznasz rodzaje zmian i jak sobie z nimi radzić, co działa, a co jest przeciwskuteczne. Gdzie zwykle liderzy, praktycy Agile, ale nie tylko oni, natrafią na ściany i co z tym zrobić.
+
+<a href="" target="_blank">Nagranie prezentacji</a>.
+
+<a href="J. Perlak.pdf" target="_blank">Slajdy</a>.
+
+## dr Aga Szóstek
+
+### Zmiana goni zmianę, czy ten wyścig jest na czas?
+
+Ledwie kończy się jedna transformacja, już za rogiem czeka następna. Biegniemy zadyszani, przekonani, że kto się nie zmienia dość szybko, ten odpada. Tylko że ludzie tak nie działają. Nie zmieniamy się w dniu, w którym podejmujemy decyzję ani w kwartale, w którym firma ogłasza transformację. Zmieniamy się wolniej, cyklicznie, z nawrotami, aż zmiana w nas dojrzeje. Bo ta, którą wymusimy wbrew sobie, i tak się nie utrzyma. Opowiem o tym, czego w tym transformacyjnym wyścigu nie widać: że zmiana ma swój czas, że nie każda jest warta biegu i że czasem najodważniej jest zostać z zgodzie ze sobą. Na bazie badań. I mojej powieści.
+
+<a href="" target="_blank">Nagranie prezentacji</a>.
+
+<a href="" target="_blank">Slajdy</a>.
 
 
 # Warsztaty
