@@ -75,3 +75,52 @@ Masz dość gaszenia pożarów i doraźnych interwencji? Chcesz lepiej zrozumie�
 ### Zobaczyć niewidzialne: Jak Notestorming „rozbraja” opór przed zmianą?
 
 Zapraszam Cię na warsztat, na którym przestaniemy o problemach rozmawiać, a zaczniemy im się... przyglądać. Dosłownie. Podczas tych dwóch godzin doświadczysz Notestormingu – metody, która pozwala „wyjąć” myśli z głowy i zmaterializować je na kolorowych karteczkach. Zamiast tracić energię na przekonywanie nieprzekonanych, nauczymy się strukturyzować chaos opinii, faktów i obaw w rygorystyczny, wizualny układ. Na przykładzie starcia „Strażników tradycji" z „Pionierami innowacji” sprawdzimy w praktyce: - Jak obiektywizować lęki, by przestały blokować działanie? - Jak przejść od emocjonalnego impasu do generowania rozwiązań, których nie było widać w gęstym dymie dyskusji? - Jak sprawić, by każdy uczestnik procesu poczuł się autorem rozwiązania, a nie ofiarą zmiany? To nie będzie kolejny wykład. To sesja „brudzenia rąk” markerami, gdzie poczujesz, jak zmiana perspektywy z „słyszę, co mówisz” na „widzę, co myślimy” zmienia wszystko. Wyjdziesz z konkretnym doświadczeniem. To praktyczna sesja pełna przykładów, dyskusji i konkretnych narzędzi, które możesz wykorzystać w swojej organizacji od razu po warsztacie.
+
+## Wiktor Żołnowski
+### Jak skutecznie współpracować z Zarządem przy zmianie organizacyjnej
+
+Zmiana organizacyjna rzadko zatrzymuje się na poziomie zespołów. Prawdziwy wpływ zaczyna się tam, gdzie spotykają się strategia, decyzje biznesowe i codzienna praktyka działania organizacji. Ten warsztat jest dla Agile Coachów, Scrum Masterów i Managerów, którzy chcą skuteczniej współpracować z Zarządem, CEO oraz Top-Level Managementem przy prowadzeniu zmian w firmie. Porozmawiamy o tym, jak systemowo, w uporządkowany sposób planować i przeprowadzać zmianę, jak przekładać inicjatywy transformacyjne na język biznesu oraz jak zwiększać widoczność i realny wpływ działań zmianowych. Podczas warsztatu skupimy się m.in. na: - pracy ze strategią i priorytetami organizacji, - budowaniu transparentności zmian i ich efektów, - monitorowaniu procesów oraz mierników wspierających decyzje, - komunikacji z managementem wysokiego szczebla, - tworzeniu warunków do trwałej zmiany organizacyjnej. To praktyczna sesja pełna przykładów, dyskusji i konkretnych narzędzi, które możesz wykorzystać w swojej organizacji od razu po warsztacie.
+
+## Marcin Kępka
+### O rycerzu, który wiedział co robić.
+
+Setki szkoleń i certyfikatów ze wszystkich frameworków, jakie kiedykolwiek ktoś wymyślił. Tajemnicze ceremonie, tablice ociekające taskami, a backlog wyrośnięty jak dobre ciasto. A jednak cały czas stoimy w miejscu, a nieliczni mówią już głośno: „Agile is dead." Zapraszam Cię na warsztat, na którym nie będziemy naprawiać backlogów ani uczyć się 1456 sposobów estymowania w Gumisiach. Przyjrzymy się za to mechanizmom, które naprawdę sterują zmianą… lub jej brakiem. Co wydarzy się na warsztacie? Przywdziejesz zbroję i w unikalnej symulacji sprawdzisz swoją odwagę w starciu z prawdziwymi potworami transformacji Odkryjesz mechanizmy, które kierują Tobą, szlachtą i Królem - szczególnie gdy w okolicy pojawia się Agile Poznasz narzędzie, które możesz przyłożyć do miejsca, gdzie naprawdę boli Na jakie łupy możesz liczyć? Osobista mapa, która pokaże Ci, dlaczego sam robisz inaczej niż byś chciał Mapa blokad całego królestwa, abyś wiedział, gdzie zmiana utknęła i dlaczego Konkretny eksperyment do wdrożenia w ciągu dwóch tygodni (zamiast kolejnego planu transformacji) Dla kogo? Dla Scrum Masterów, Agile Coachów i Product Ownerów, którzy mają odwagę zdjąć przyłbicę i sprawdzić, co naprawdę dzieje się w głowach szlachty i Króla gdy faktycznie wjeżdża zmiana. Udział we wcześniejszych krucjatach szerzących zwinność i liczne blizny mile widziane.
+
+## Tomasz Wykowski
+### Jak przekonać nieprzekonanych, czyli o skutecznym wprowadzaniu zmian.
+
+Masz pomysł na usprawnienie pracy. Widzisz problem, masz rozwiązanie i nie rozumiesz, dlaczego inni nie podzielają Twojego entuzjazmu. Zespół wzrusza ramionami, managerowie mówią „może później”, a organizacja jakby w ogóle nie zauważała tematu.
+
+Brzmi znajomo?
+Na tym warsztacie sprawdzimy, co zrobić, żeby uruchomić zmianę.
+Porozmawiamy o tym:
+* Jak Twoje założenia wpływają na efektywność zmiany
+* Jak wypracować wspólny cel zmiany
+* Jak zrozumieć decydentów i pomóc im zaangażować się w zmianę
+* Jak upewnić się, że zapał nie wyparuje po kilku tygodniach
+* Jak wprowadzać zmiany bez formalnej władzy
+
+Będziemy pracować na realnych problemach, dlatego przyjdź z przykładem zmiany, którą próbujesz właśnie wdrożyć.
+
+P.S. Jeśli wcześniej obejrzysz 👉 wystąpienie z ABE Light 2024 , wyciągniesz z warsztatu jeszcze więcej.
+P.S.S. Będzie Ci się lepiej pracowało, jeśli zabierzesz ze sobą resztę swojego zespołu.
+
+## Justyna Wykowska
+### Jak skutecznie układać współpracę z interesariuszami
+
+Dlaczego argumenty o długu technologicznym tak często odbijają się od ściany? Jak reagować, gdy kluczowe osoby w organizacji mają całkowicie sprzeczne priorytety? Co kryje się za oporem przed zmianą procesu? Jeśli chcesz lepiej zrozumieć swoich współpracowników, analizować potrzeby otoczenia biznesowego i budować partnerskie relacje z kluczowymi osobami w firmie, ten warsztat jest dla Ciebie. Przyjrzymy się kilku narzędziom i wspólnie zastanowimy się:
+* Jak mapować interesariuszy, by wiedzieć, czyj feedback ma w danym momencie największe znaczenie dla produktu?
+* Jak odczytywać ukryte motywacje i obawy biznesu?
+* Jak projektować działania komunikacyjne, które pomagają radzić sobie z oporem i domykać decyzje?
+
+Dowiesz się, jak świadomie zarządzać zaangażowaniem kluczowych osób, by zamiast ciągłej walki o priorytety zyskać przestrzeń do efektywnego wdrażania rozwiązań. Warsztat jest idealny dla Product Ownerów, managerów produktu, Scrum Masterów, Tech Leadów, analityków i wszystkich, którzy na co dzień balansują między wymaganiami biznesu a możliwościami zespołów IT.
+
+## Kasia Mydło
+### Kiedy uczestnik odpływa, atakuje albo gada – trening reakcji dla prowadzących spotkania
+
+To szkolenie jest dla tych, którzy niejedno spotkanie już przeżyli i nadal mają odwagę organizować kolejne. Zastanowimy się, co robić, gdy ktoś jawnie testuje Twoją cierpliwość – ataki, gadulstwo, scrollowanie Instagrama w pierwszym rzędzie… wszystko się zdarza. Nie będziemy moralizować. Będziemy ćwiczyć. W praktyce. Z żywymi ludźmi. Uporządkujemy to, co już robisz intuicyjnie – żeby reagować mniej emocjonalnie, a bardziej świadomie. Trochę też zahaczymy o spotkania online, bo tam też potrafi się dziać. Zapraszam każdego, komu zdarza się być gospodarzem spotkań, gdzie próbujecie się czegoś nauczyć lub ustalić (w szczególności retrospektywy i wszelkiego rodzaju szkolenia)
+
+## Leszek Piątek
+### Zbuduj swojego pierwszego agenta AI w 2 godziny
+
+Agent to coś, co zna Twój kontekst, Twoje dane i Twoją robotę. Na warsztacie zaczniemy od live demo, gdzie pokażę jak krok po kroku powstaje agent AI na kilku platformach jednocześnie (Copilot, ChatGPT, Claude). Potem w grupach zbudujecie własnego agenta dopasowanego do Waszej codziennej pracy, pod konkretny problem z pracy PM-a, Scrum Mastera lub Agile Coacha. Wyjdziesz z działającym agentem i wiedzą jak budować kolejne. Laptop z dostępem do internetu obowiązkowy.
