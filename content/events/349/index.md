@@ -59,7 +59,6 @@ Ledwie kończy się jedna transformacja, już za rogiem czeka następna. Biegnie
 # Warsztaty
 
 ## Bartosz Juszczak
-
 ### Ludzka twarz zmiany. Liderskie cnoty w procesie transformacji.
 
 Uświadomienie sobie 7 grzechów głównych to dopiero początek drogi do rzeczywistej transformacji. Warsztaty będą pogłębieniem wcześniejszego wystąpienia i zaproszeniem do wspólnego wypracowania metod, które minimalizują ryzyko braku zmiany lub powrotu organizacji do starego status quo. To przestrzeń, by zadać trudne pytania i znaleźć odpowiedzi na to, jak sprawić, by ogromna inwestycja w zmianę – mierzona czasem, energią czy budżetem – ostatecznie się zwróciła.
@@ -67,4 +66,12 @@ Podczas warsztatów skupimy się przede wszystkim na aspektach przywództwa i po
 
 [Slajdy](plik)
 
+## dr Jakub Perlak
+### Zrozum System. Zaprojektuj Zmianę.
 
+Masz dość gaszenia pożarów i doraźnych interwencji? Chcesz lepiej zrozumieć opór w organizacji i zacząć go wykorzystywać jako energię do transformacji? Dołącz do intensywnego warsztatu, gdzie połączymy dyscyplinę myślenia systemowego z głębokim relacyjnym podejściem do zmiany. Pracując wspólnie, będziemy się uczyć, jak diagnozować blokady w zmianie i projektować interwencje, które prowadzą do trwałej, systemowej zmiany.
+
+## Dariusz Góras
+### Zobaczyć niewidzialne: Jak Notestorming „rozbraja” opór przed zmianą?
+
+Zapraszam Cię na warsztat, na którym przestaniemy o problemach rozmawiać, a zaczniemy im się... przyglądać. Dosłownie. Podczas tych dwóch godzin doświadczysz Notestormingu – metody, która pozwala „wyjąć” myśli z głowy i zmaterializować je na kolorowych karteczkach. Zamiast tracić energię na przekonywanie nieprzekonanych, nauczymy się strukturyzować chaos opinii, faktów i obaw w rygorystyczny, wizualny układ. Na przykładzie starcia „Strażników tradycji" z „Pionierami innowacji” sprawdzimy w praktyce: - Jak obiektywizować lęki, by przestały blokować działanie? - Jak przejść od emocjonalnego impasu do generowania rozwiązań, których nie było widać w gęstym dymie dyskusji? - Jak sprawić, by każdy uczestnik procesu poczuł się autorem rozwiązania, a nie ofiarą zmiany? To nie będzie kolejny wykład. To sesja „brudzenia rąk” markerami, gdzie poczujesz, jak zmiana perspektywy z „słyszę, co mówisz” na „widzę, co myślimy” zmienia wszystko. Wyjdziesz z konkretnym doświadczeniem. To praktyczna sesja pełna przykładów, dyskusji i konkretnych narzędzi, które możesz wykorzystać w swojej organizacji od razu po warsztacie.
